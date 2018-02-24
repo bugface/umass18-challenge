@@ -1,0 +1,76 @@
+The best restricted evaluation result: 
+Epoch: 0 step: 5050accuracy:  89.05%; precision:  52.67%; recall:  40.21%; FB1:  45.60
+Epoch: 0 step: 10100accuracy:  91.58%; precision:  67.05%; recall:  54.81%; FB1:  60.32
+Epoch: 0 step: 15150accuracy:  91.87%; precision:  69.79%; recall:  57.83%; FB1:  63.25
+Epoch: 0 step: 20200accuracy:  90.63%; precision:  69.47%; recall:  59.35%; FB1:  64.01
+Epoch: 0 step: 25250accuracy:  92.88%; precision:  79.09%; recall:  63.92%; FB1:  70.70
+Epoch: 0 step: 30300accuracy:  93.54%; precision:  73.50%; recall:  69.13%; FB1:  71.24
+Epoch: 0 step: 35350accuracy:  94.26%; precision:  76.58%; recall:  73.39%; FB1:  74.95
+Epoch: 0 step: 40400accuracy:  94.32%; precision:  83.89%; recall:  71.43%; FB1:  77.16
+Epoch: 0 step: 50500accuracy:  95.07%; precision:  83.75%; recall:  75.77%; FB1:  79.56
+Epoch: 0; avg cost: 2.633429
+Epoch: 1 step: 70700accuracy:  95.43%; precision:  83.24%; recall:  80.49%; FB1:  81.85
+Epoch: 1 step: 80800accuracy:  95.25%; precision:  82.79%; recall:  81.40%; FB1:  82.09
+Epoch: 1 step: 85850accuracy:  95.26%; precision:  85.49%; recall:  80.00%; FB1:  82.65
+Epoch: 1; avg cost: 1.141601
+Epoch: 2 step: 106050accuracy:  95.90%; precision:  83.76%; recall:  83.28%; FB1:  83.52
+Epoch: 2 step: 116150accuracy:  95.79%; precision:  84.54%; recall:  82.83%; FB1:  83.68
+Epoch: 2 step: 121200accuracy:  95.33%; precision:  84.42%; recall:  83.02%; FB1:  83.71
+Epoch: 2 step: 126250accuracy:  95.93%; precision:  84.52%; recall:  84.09%; FB1:  84.30
+Epoch: 2 step: 136350accuracy:  95.97%; precision:  86.03%; recall:  83.59%; FB1:  84.79
+Epoch: 2; avg cost: 0.939615
+Epoch: 3 step: 166650accuracy:  95.79%; precision:  86.32%; recall:  83.72%; FB1:  85.00
+Epoch: 3 step: 171700accuracy:  96.06%; precision:  84.52%; recall:  85.70%; FB1:  85.10
+Epoch: 3 step: 191900accuracy:  96.19%; precision:  85.48%; recall:  85.77%; FB1:  85.62
+Epoch: 3; avg cost: 0.845382
+Epoch: 4 step: 227250accuracy:  96.37%; precision:  85.35%; recall:  87.08%; FB1:  86.21
+Epoch: 4 step: 247450accuracy:  96.38%; precision:  86.58%; recall:  85.86%; FB1:  86.22
+Epoch: 4 step: 252500accuracy:  96.43%; precision:  86.50%; recall:  86.06%; FB1:  86.28
+Epoch: 4; avg cost: 0.788116
+Epoch: 5 step: 287850accuracy:  96.41%; precision:  86.86%; recall:  86.46%; FB1:  86.66
+Epoch: 5; avg cost: 0.703241
+Epoch: 6 step: 333300accuracy:  96.36%; precision:  87.73%; recall:  85.89%; FB1:  86.80
+Epoch: 6 step: 343400accuracy:  96.47%; precision:  86.74%; recall:  87.17%; FB1:  86.96
+Epoch: 6 step: 348450accuracy:  96.53%; precision:  87.70%; recall:  86.38%; FB1:  87.04
+Epoch: 6; avg cost: 0.661736
+Epoch: 7 step: 363600accuracy:  96.50%; precision:  87.53%; recall:  86.65%; FB1:  87.08
+Epoch: 7 step: 373700accuracy:  96.65%; precision:  87.53%; recall:  87.04%; FB1:  87.28
+Epoch: 7; avg cost: 0.625627
+Epoch: 8 step: 429250accuracy:  96.62%; precision:  87.82%; recall:  86.91%; FB1:  87.36
+Epoch: 8; avg cost: 0.604355
+Epoch: 9 step: 479750accuracy:  96.73%; precision:  88.03%; recall:  87.01%; FB1:  87.52
+Epoch: 9 step: 505000accuracy:  96.69%; precision:  88.27%; recall:  87.30%; FB1:  87.78
+Epoch: 9; avg cost: 0.568320
+Epoch: 10 step: 535300accuracy:  96.71%; precision:  87.89%; recall:  87.93%; FB1:  87.91
+Epoch: 10; avg cost: 0.543871
+Epoch: 11 step: 575700accuracy:  96.78%; precision:  87.85%; recall:  88.22%; FB1:  88.04
+Epoch: 11; avg cost: 0.524557
+Epoch: 12; avg cost: 0.504556
+Epoch: 13; avg cost: 0.485146
+Epoch: 14 step: 712050accuracy:  96.73%; precision:  88.89%; recall:  87.35%; FB1:  88.11
+Epoch: 14 step: 717100accuracy:  96.88%; precision:  88.06%; recall:  88.28%; FB1:  88.17
+Epoch: 14 step: 747400accuracy:  96.83%; precision:  89.42%; recall:  87.03%; FB1:  88.20
+Epoch: 14; avg cost: 0.469714
+Epoch: 15 step: 802950accuracy:  96.86%; precision:  88.36%; recall:  88.08%; FB1:  88.22
+Epoch: 15; avg cost: 0.454514
+Epoch: 16 step: 813050accuracy:  96.75%; precision:  88.93%; recall:  87.64%; FB1:  88.28
+Epoch: 16 step: 843350accuracy:  96.90%; precision:  88.54%; recall:  88.06%; FB1:  88.30
+Epoch: 16 step: 858500accuracy:  96.94%; precision:  88.34%; recall:  88.59%; FB1:  88.47
+Epoch: 16; avg cost: 0.438061
+Epoch: 17; avg cost: 0.425153
+Epoch: 18; avg cost: 0.407425
+Epoch: 19; avg cost: 0.392245
+Epoch: 20; avg cost: 0.384127
+Epoch: 21; avg cost: 0.369187
+Epoch: 22 step: 1116050accuracy:  96.90%; precision:  88.83%; recall:  88.31%; FB1:  88.57
+Epoch: 22 step: 1126150accuracy:  96.98%; precision:  89.32%; recall:  88.15%; FB1:  88.73
+Epoch: 22; avg cost: 0.358618
+Epoch: 23; avg cost: 0.345919
+Epoch: 24; avg cost: 0.332663
+Epoch: 25; avg cost: 0.326199
+Epoch: 26; avg cost: 0.314198
+Epoch: 27; avg cost: 0.300248
+Epoch: 28; avg cost: 0.294746
+Epoch: 29; avg cost: 0.288234
+Epoch: 30; avg cost: 0.276375
+Epoch: 31; avg cost: 0.275743
