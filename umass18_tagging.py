@@ -9,7 +9,7 @@ import os
 # import execnet
 import sys
 sys.path.append('NER-tagger')
-sys.setrecursionlimit(1000)
+# sys.setrecursionlimit(1000)
 from tagger import run_tagging, load_model
 # from multiprocessing import cpu_count
 # from concurrent.futures import ProcessPoolExecutor

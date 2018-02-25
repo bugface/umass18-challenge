@@ -169,10 +169,7 @@ def gen_bioc(src_dir, dst_dir, dm):
         #process the start and end position to length and offset
         #remove BIO to convert into terms with entity tag
         # index = 0
-        terms = ""
-        offset = 0
-        tag = ""
-        prev_tag = "O"
+        terms, offset, tag, prev_tag, cur_term, entity_end = "", 0, "", "O", "", 0
 
         for i, sent in enumerate(merged_sents):
             # ''' e.g. 
@@ -184,7 +181,15 @@ def gen_bioc(src_dir, dst_dir, dm):
                 cur_tag = word[-1]
                 start = int(word[-3])
                 end = int(word[-2])
-                cur_term = word[0]
+                
+                #replace '<' and '>' with '&lt;' and '&gt;'
+                if word[0] == "<":
+                    cur_term = "&lt;"
+                elif word[0] == ">":
+                    cur_term = "&gt;"
+                else:
+                    cur_term = word[0]
+
                 if cur_tag == "O":
                     if prev_tag != "O":
                         '''
@@ -194,21 +199,16 @@ def gen_bioc(src_dir, dst_dir, dm):
                             <text>%s</text>
                         </annotation>"""%(wid, tag, length, offset, text)
                         '''
-                        length = end - offset
-                        ann += make_xml_annotation(global_id, tag, length, offset, terms.rstrip())
+                        ann += make_xml_annotation(global_id, tag, entity_end-offset, offset, terms.rstrip())
                         global_id += 1
-                        terms = ""
-                        offset = 0
-                        tag = ""
-                        end = 0
-                    prev_tag = cur_tag
+                        terms, offset, tag = "", 0, ""
                 else:
                     label = cur_tag.split("-")[0]
                     entity = cur_tag.split("-")[1]
                     if label == 'B':
                         if prev_tag == "O":
-                            #reset prev_tag to cur_tag
-                            prev_tag = cur_tag
+                            #assign current end to entity end
+                            entity_end = end
                             #assgin cur entity to tag
                             tag = entity
                             #record the offset
@@ -221,16 +221,12 @@ def gen_bioc(src_dir, dst_dir, dm):
                                 we need to first write tag1 into annotation
                                 then reassign all tag2 information to vars
                             '''
-                            length = end - offset
-                            ann += make_xml_annotation(global_id, tag, length, offset, terms.rstrip())
+                            ann += make_xml_annotation(global_id, tag, entity_end-offset, offset, terms.rstrip())
                             global_id += 1
-                            terms = ""
-                            offset = 0
-                            tag = ""
-                            end = 0
-
-                            #reset prev_tag to cur_tag
-                            prev_tag = cur_tag
+                            terms, offset, tag= "", 0, ""
+                            
+                            #assign current end to entity end
+                            entity_end = end
                             #assgin cur entity to tag
                             tag = entity
                             #record the offset
@@ -243,25 +239,25 @@ def gen_bioc(src_dir, dst_dir, dm):
                         #check BIO tag kind (I-tag must have the same tag type with its leading B-tag)
                         # assert entity == tag, "The current entity is not the same as leading B-tag entity: %s"%sent
                         if entity == tag:
+                            #assign current end to entity end
+                            entity_end = end
                             terms += (cur_term + " ")
                         else:
-                            length = end - offset
-                            ann += make_xml_annotation(global_id, tag, length, offset, terms.rstrip())
+                            ann += make_xml_annotation(global_id, tag, entity_end-offset, offset, terms.rstrip())
                             global_id += 1
-                            terms = ""
-                            offset = 0
-                            tag = ""
-                            end = 0
+                            terms, offset, tag= "", 0, ""
 
-                            #reset prev_tag to cur_tag
-                            prev_tag = cur_tag
+                            #assign current end to entity end
+                            entity_end = end
                             #assgin cur entity to tag
                             tag = entity
                             #record the offset
                             offset = start
                             #add term into terms
                             terms += (cur_term + " ")
-
+                
+                #reset prev_tag to cur_tag
+                prev_tag = cur_tag
 
         #output the .bioc format
         head = make_xml_body_head(file_id)
@@ -278,7 +274,18 @@ def test():
     logger.info(x + z + y)
 
     # merge_tagged_map_files("ref_for_test/corpus_sent/1_9.tagged.txt", "ref_for_test/corpus_sent/1_9.wmap.txt", "^")
-    gen_bioc("ref_for_test/corpus_sent/", "ref_for_test/eval", "^")
+    gen_bioc("ref_for_test/test_sent/", "ref_for_test/test_eval", "^")
+
+    '''
+    in 13_95 provided by umass
+     <annotation id="10325">
+        <infon key="type">SSLIF</infon>
+        <location length="27" offset="2503"/>
+        <text>decrease \nsensation to LLE</text>
+      </annotation>
+
+    I think it is wrong to have \n there inside the text
+    '''
 
 if __name__ == '__main__':
     test()
