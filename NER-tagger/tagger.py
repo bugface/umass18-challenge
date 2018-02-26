@@ -1,5 +1,8 @@
 #!/usr/bin/env python
-
+import logging
+FORMAT = '%(asctime)-20s %(name)-5s %(levelname)-10s %(message)s'
+logging.basicConfig(level=logging.INFO, format=FORMAT, datefmt="%Y-%m-%d %H:%M:%S")
+logger = logging.getLogger("tagging")
 import os
 import time
 import codecs
@@ -12,7 +15,7 @@ from model import Model
 
 def load_model(opts_model):
     # Load existing model
-    #print "Loading model..."
+    logger.info( "Loading model...")
     model = Model(model_path=opts_model)
     parameters = model.parameters
 
@@ -35,7 +38,7 @@ def run_tagging(model, f_eval, parameters, word_to_id, char_to_id, tag_to_id, op
 
     f_output = codecs.open(opts_output, 'w', 'utf-8')
     start = time.time()
-    print 'Tagging...'
+    logger.info( 'Tagging...')
     with codecs.open(opts_input, 'r', 'utf-8') as f_input:
         count = 0
         for line in f_input:
@@ -67,23 +70,23 @@ def run_tagging(model, f_eval, parameters, word_to_id, char_to_id, tag_to_id, op
                 if opts_outputFormat == 'json':
                     f_output.write(json.dumps({ "text": ' '.join(words), "ranges": iob_ranges(y_preds) }))
                 else:
-                    #print "write out tags..."
+                    #logger.info( "write out tags..."
                     f_output.write('%s\n' % ' '.join('%s%s%s' % (w, opts_delimiter, y)
                                                      for w, y in zip(words_ini, y_preds)))
             else:
                 f_output.write('\n')
             count += 1
             # if count % 100 == 0:
-            #     print count
+            #     logger.info( count
 
-    print '---- %i lines tagged in %.4fs ----' % (count, time.time() - start)
+    logger.info( '---- %i lines tagged in %.4fs ----' % (count, time.time() - start))
     f_output.close()
-    print opts_output
-    print ""
+    logger.info( opts_output)
+    logger.info( "")
     return opts_output + " has been tagged!"
 
 # def main():
-#     print "executed"
+#     logger.info( "executed"
 
 # if __name__ == '__main__':
 #     main()

@@ -3,6 +3,7 @@ This is a pipeline e2e system for umass18 chanllenge
 
 The pipeline will take the raw txt input files, preprocess, tagging and output bioc annotated files
 '''
+import os
 import logging
 from umass18_map_data import preprocess_data_sent_tokenization_and_position_mapping
 from umass18_tagging import tagging
@@ -23,8 +24,12 @@ def main():
     '''
     logger.info("reading config...")
     logger.info("input corpus data for tagging dir: %s"%CORPUS_DIR)
+    assert os.path.isdir(CORPUS_DIR), "Input corpus for tagging directory is not found, check the config"
     logger.info("preprocessed corpus data dir: %s"%PREPROCESSED_CORPUS_DIR)
+    if not os.path.isdir(PREPROCESSED_CORPUS_DIR):
+        os.mkdir(PREPROCESSED_CORPUS_DIR)
     logger.info("pre-trained model: %s"%PRE_TRAINED_MODEL)
+    assert os.path.isdir(PRE_TRAINED_MODEL), "The pre-trained model is not found, check the config"
 
     logger.info("preprocess...")
     preprocess_data_sent_tokenization_and_position_mapping(CORPUS_DIR, PREPROCESSED_CORPUS_DIR)

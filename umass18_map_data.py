@@ -38,7 +38,7 @@ def preprocess_data_sent_tokenization_and_position_mapping(idir, odir):
             if fnn.startswith('.'):
                 continue
             ct=ct+1
-            logger.info(fnn)
+            # logger.info(fnn)
             future_ = executor.submit(work, fnn, idir, odir, ct)
             logger.info(future_.result())
 

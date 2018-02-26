@@ -4,7 +4,6 @@ The pipeline is written in python3
 Therefore, the os must have both python2 and python3 
 check this in the pipeline.py to make sure we have both envs
 '''
-import logging
 import os
 # import execnet
 import sys
@@ -13,10 +12,6 @@ sys.path.append('NER-tagger')
 from tagger import run_tagging, load_model
 # from multiprocessing import cpu_count
 # from concurrent.futures import ProcessPoolExecutor
-
-FORMAT = '%(asctime)-20s %(name)-5s %(levelname)-10s %(message)s'
-logging.basicConfig(level=logging.INFO, format=FORMAT, datefmt="%Y-%m-%d %H:%M:%S")
-logger = logging.getLogger("tagging")
 
 # def call_python_version(Version, Module, Function, ArgumentList):
 #     gw      = execnet.makegateway("popen//python=python%s" % Version)
