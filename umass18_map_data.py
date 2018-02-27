@@ -28,7 +28,7 @@ def work(fn, idir, odir, cnt):
     lines=sent.get_word_map()
     fo.write('\n'.join(lines)+'\n')
     fo.close()
-    return "done %s"%cnt
+    return "done %s"%fn
 
 
 def preprocess_data_sent_tokenization_and_position_mapping(idir, odir):

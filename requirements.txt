@@ -1,0 +1,3 @@
+theano 
+futures
+mkl

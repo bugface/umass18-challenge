@@ -3,6 +3,7 @@ This is a pipeline e2e system for umass18 chanllenge
 
 The pipeline will take the raw txt input files, preprocess, tagging and output bioc annotated files
 '''
+import time
 import os
 import logging
 from umass18_map_data import preprocess_data_sent_tokenization_and_position_mapping
@@ -22,6 +23,7 @@ def main():
      3. merged the tagged file with mapping file and write the BIO back to .bioc file
      4. evaluate the results with the evaluate script 
     '''
+    _start_time = time.time()
     logger.info("reading config...")
     logger.info("input corpus data for tagging dir: %s"%CORPUS_DIR)
     assert os.path.isdir(CORPUS_DIR), "Input corpus for tagging directory is not found, check the config"
@@ -39,6 +41,11 @@ def main():
 
     logger.info("generate bioc files...")
     gen_bioc(PREPROCESSED_CORPUS_DIR, EVALUATION_DIR, TAG_DILIMITER)
+
+    t_sec = round(time.time() - _start_time)
+    (t_min, t_sec) = divmod(t_sec,60)
+    (t_hour,t_min) = divmod(t_min,60) 
+    logger.info('Time passed: %ihour:%imin:%isec'%(t_hour,t_min,t_sec))
 
 if __name__ == '__main__':
     main()

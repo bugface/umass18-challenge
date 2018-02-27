@@ -5,20 +5,42 @@
 
 ## environment
 - python 2.7
-- theano
-- futures
-- numpy
-- scipy
 
 ## How to run the system
 - install all the packages required
-- change the config files content to reflect the data location for system input and output
-- run umass18_pipeline, a eval output will be generated
-- run evaluation script on generated data
+```sh
+pip install -r requirements.txt
+```
+
+- change the umass18_config file content to reflect the data location for system input and output
+```python
+CORPUS_DIR = "the chanllenge original corpus files directory" 
+PREPROCESSED_CORPUS_DIR = "the direcoty containing output sentence-tokenized files and words-position-map files"
+EVALUATION_DIR = "the directory containing output .bioc files for evaluation"
+PRE_TRAINED_MODEL = "the directory containing the pre-trained model"
+```
+
+- run umass18_pipeline, the necessary information about the process will be logged in the console or termial
+```sh
+#not using gpu for tagging(linux) (extremely slow!!!)
+python umass18_pipeline.py
+
+#not using gpu but with mkl for tagging(linux, miniconda2-latest)
+conda install mkl-service 
+python umass18_pipeline.py
+
+#using gpu for tagging (linux, miniconda2-latest)
+conda install mkl-service
+export MKL_THREADING_LAYER=GNU
+export THEANO_FLAGS=device=cuda0
+python umass18_pipeline.py
+```
+
+- run evaluation script on generated data (This evaluation must be run using python3 because the evaluation script provided by chanllenge organizer was written in python3)
+```sh
+pip install bioc
+python3 bioc_evaluation.py <ground truth .bioc files directory> <predicted .bioc files directory> <corpus files directory>
+```
 
 ## Authors
-Yonghui Wu* Ph.D., Xi Yang Ph.D.
-
-#remain bugs
-1. replace < and > with &lt; and &rt;
-2. debug length calculation
+>Yonghui Wu Ph.D.*, Xi Yang Ph.D.

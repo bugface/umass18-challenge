@@ -228,6 +228,8 @@ class SenTokBound:
             text=text+'\n'
         self.otxt=re.sub('\[\*\*|\*\*\]','   ',text)
         self.otxt=re.sub('\t',' ',self.otxt)
+        #To replace all same characters as delimiters in the text in order for tagging and post processing
+        self.otxt=re.sub('\^','_',self.otxt)
         ##logger.info self.otxt
         self.tok()
         #logger.info ('self.tok_sent')

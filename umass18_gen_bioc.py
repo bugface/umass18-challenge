@@ -183,10 +183,11 @@ def gen_bioc(src_dir, dst_dir, dm):
                 end = int(word[-2])
                 
                 #replace '<' and '>' with '&lt;' and '&gt;'
-                if word[0] == "<":
-                    cur_term = "&lt;"
-                elif word[0] == ">":
-                    cur_term = "&gt;"
+                #TODO other special characters might need to be converted?
+                if "<" in word[0]:
+                    cur_term = word[0].replace("<", "&lt;")
+                elif ">" in word[0]:
+                    cur_term = word[0].replace(">", "&gt;")
                 else:
                     cur_term = word[0]
 

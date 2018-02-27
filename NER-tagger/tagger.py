@@ -36,6 +36,9 @@ def run_tagging(model, f_eval, parameters, word_to_id, char_to_id, tag_to_id, op
     assert opts_delimiter
     assert os.path.isfile(opts_input)
 
+    #set environment to use gpu
+    
+
     f_output = codecs.open(opts_output, 'w', 'utf-8')
     start = time.time()
     logger.info( 'Tagging...')
