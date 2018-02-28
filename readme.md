@@ -7,11 +7,6 @@
 - python 2.7
 
 ## How to run the system
-- install all the packages required
-```sh
-pip install -r requirements.txt
-```
-
 - change the umass18_config file content to reflect the data location for system input and output
 ```python
 CORPUS_DIR = "the chanllenge original corpus files directory" 
@@ -22,23 +17,22 @@ PRE_TRAINED_MODEL = "the directory containing the pre-trained model"
 
 - run umass18_pipeline, the necessary information about the process will be logged in the console or termial
 ```sh
-#not using gpu for tagging(linux) (extremely slow!!! and the accuracy somehow is not as high as using c++ compiled tagger)
+pip install -r requirements.txt
+
+#On windows machine: pre-installed anaconda2 
+conda install mkl-service
+conda install m2w64-toolchain
 python umass18_pipeline.py
 
-#not using gpu but with mkl for tagging(linux, miniconda2-latest, make sure you have c++ compiler)
-conda install mkl-service 
-python umass18_pipeline.py
-
-#using gpu for tagging (linux, miniconda2-latest)
+#On unix system preinstalled miniconda2-latest
 conda install mkl-service
 export MKL_THREADING_LAYER=GNU
-export THEANO_FLAGS=device=cuda0
 python umass18_pipeline.py
 ```
 
 - run evaluation script on generated data (This evaluation must be run using python3 because the evaluation script provided by chanllenge organizer was written in python3)
 ```sh
-pip install bioc
+pip install bioc future
 python3 bioc_evaluation.py <ground truth .bioc files directory> <predicted .bioc files directory> <corpus files directory>
 ```
 
