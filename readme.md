@@ -30,7 +30,7 @@ export MKL_THREADING_LAYER=GNU
 python umass18_pipeline.py
 ```
 
-- run evaluation script on generated data (This evaluation must be run using python3 because the evaluation script provided by chanllenge organizer was written in python3)
+- run evaluation script on generated data, using the newly generated eval directory which contains all the predicted .bioc files as evaluation predicted directory (This evaluation must be run using python3 because the evaluation script provided by chanllenge organizer was written in python3)
 ```sh
 pip install bioc future
 python3 bioc_evaluation.py <ground truth .bioc files directory> <predicted .bioc files directory> <corpus files directory>
