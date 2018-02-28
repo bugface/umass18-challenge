@@ -182,8 +182,6 @@ def gen_bioc(src_dir, dst_dir, dm):
                 start = int(word[-3])
                 end = int(word[-2])
                 
-                #replace '<' and '>' with '&lt;' and '&gt;'
-                #TODO other special characters might need to be converted?
                 if "<" in word[0]:
                     cur_term = word[0].replace("<", "&lt;")
                 elif ">" in word[0]:
@@ -276,17 +274,7 @@ def test():
 
     # merge_tagged_map_files("ref_for_test/corpus_sent/1_9.tagged.txt", "ref_for_test/corpus_sent/1_9.wmap.txt", "^")
     gen_bioc("ref_for_test/test_sent/", "ref_for_test/test_eval", "^")
-
-    '''
-    in 13_95 provided by umass
-     <annotation id="10325">
-        <infon key="type">SSLIF</infon>
-        <location length="27" offset="2503"/>
-        <text>decrease \nsensation to LLE</text>
-      </annotation>
-
-    I think it is wrong to have \n there inside the text
-    '''
+    
 
 if __name__ == '__main__':
     test()

@@ -1,2 +1,0 @@
-#using model: models/iob,True,True,25,25,True,200,300,True,umass_emb.txt,False,0,True,0.5,sgd-lr_.005,0.5,30,31,1
-MKL_THREADING_LAYER=GNU THEANO_FLAGS=device=cuda1 python tagger.py -d "^" -m models/iob,True,True,25,25,True,200,300,True,umass_emb.txt,False,0,True,0.5,sgd-lr_.005,0.5,30,31,1 -i umass2017/umass18_tagging.txt -o umass2017/umass18_tagged.txt

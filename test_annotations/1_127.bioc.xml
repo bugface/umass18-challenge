@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<collection>
+  <source></source>
+  <date></date>
+  <key></key>
+  <document>
+    <id>1_127</id>
+    <passage>
+      <offset>0</offset>
+      <annotation id="13455">
+        <infon key="type">SSLIF</infon>
+        <location length="9" offset="456"/>
+        <text>epistaxis</text>
+      </annotation>
+      <annotation id="13456">
+        <infon key="type">Drug</infon>
+        <location length="15" offset="707"/>
+        <text>anticoagulation</text>
+      </annotation>
+      <annotation id="13457">
+        <infon key="type">Drug</infon>
+        <location length="7" offset="727"/>
+        <text>aspirin</text>
+      </annotation>
+      <annotation id="13458">
+        <infon key="type">SSLIF</infon>
+        <location length="8" offset="925"/>
+        <text>distress</text>
+      </annotation>
+      <annotation id="13459">
+        <infon key="type">SSLIF</infon>
+        <location length="8" offset="949"/>
+        <text>bleeding</text>
+      </annotation>
+      <annotation id="13463">
+        <infon key="type">Indication</infon>
+        <location length="3" offset="776"/>
+        <text>DVT</text>
+      </annotation>
+      <annotation id="13464">
+        <infon key="type">Indication</infon>
+        <location length="12" offset="750"/>
+        <text>coagulopathy</text>
+      </annotation>
+      <annotation id="13465">
+        <infon key="type">SSLIF</infon>
+        <location length="8" offset="1089"/>
+        <text>bleeding</text>
+      </annotation>
+      <annotation id="13466">
+        <infon key="type">SSLIF</infon>
+        <location length="8" offset="1172"/>
+        <text>bleeding</text>
+      </annotation>
+      <annotation id="13467">
+        <infon key="type">SSLIF</infon>
+        <location length="9" offset="1238"/>
+        <text>nosebleed</text>
+      </annotation>
+      <relation id="2940">
+        <infon key="type">reason</infon>
+        <node refid="13456" role="annotation 1"/>
+        <node refid="13463" role="annotation 2"/>
+      </relation>
+      <relation id="2941">
+        <infon key="type">reason</infon>
+        <node refid="13456" role="annotation 1"/>
+        <node refid="13464" role="annotation 2"/>
+      </relation>
+      <relation id="2942">
+        <infon key="type">reason</infon>
+        <node refid="13457" role="annotation 1"/>
+        <node refid="13463" role="annotation 2"/>
+      </relation>
+      <relation id="2943">
+        <infon key="type">reason</infon>
+        <node refid="13457" role="annotation 1"/>
+        <node refid="13464" role="annotation 2"/>
+      </relation>
+    </passage>
+  </document>
+</collection>

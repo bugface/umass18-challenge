@@ -1,0 +1,302 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<collection>
+  <source></source>
+  <date></date>
+  <key></key>
+  <document>
+    <id>13_95</id>
+    <passage>
+      <offset>0</offset>
+      <annotation id="1">
+        <infon key="type">SSLIF</infon>
+        <location length="24" offset="235"/>
+        <text>T10 compression fracture</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="type">SSLIF</infon>
+        <location length="10" offset="327"/>
+        <text>malignancy</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="type">SSLIF</infon>
+        <location length="9" offset="387"/>
+        <text>back pain</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="type">SSLIF</infon>
+        <location length="12" offset="423"/>
+        <text>LLE weakness</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="type">SSLIF</infon>
+        <location length="26" offset="528"/>
+        <text>T10 compression fracture</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="type">SSLIF</infon>
+        <location length="5" offset="621"/>
+        <text>tumor</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="type">SSLIF</infon>
+        <location length="12" offset="736"/>
+        <text>Hypertension</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="type">ADE</infon>
+        <location length="9" offset="878"/>
+        <text>Allergies</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="type">Drug</infon>
+        <location length="23" offset="888"/>
+        <text>PENICILLIN G BENZATHINE</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="type">Drug</infon>
+        <location length="36" offset="936"/>
+        <text>LISINOPRIL , HYDROCHLOROTHIAZIDE</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="type">Drug</infon>
+        <location length="7" offset="979"/>
+        <text>VICODIN</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="type">SSLIF</infon>
+        <location length="24" offset="1011"/>
+        <text>T10 compression fracture</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="type">SSLIF</infon>
+        <location length="12" offset="1074"/>
+        <text>hypertension</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="type">SSLIF</infon>
+        <location length="10" offset="1139"/>
+        <text>malignancy</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="type">SSLIF</infon>
+        <location length="11" offset="1162"/>
+        <text>spinal mass</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="type">SSLIF</infon>
+        <location length="4" offset="1354"/>
+        <text>died</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="type">SSLIF</infon>
+        <location length="9" offset="1368"/>
+        <text>cirrhosis</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="type">Severity</infon>
+        <location length="4" offset="1564"/>
+        <text>mild</text>
+      </annotation>
+      <annotation id="19">
+        <infon key="type">SSLIF</infon>
+        <location length="22" offset="1569"/>
+        <text>decrease sensation L&lt;R</text>
+      </annotation>
+      <annotation id="20">
+        <infon key="type">SSLIF</infon>
+        <location length="45" offset="1721"/>
+        <text>focal wheezing R - upper , L - upper Anterior Lung</text>
+      </annotation>
+      <annotation id="21">
+        <infon key="type">SSLIF</infon>
+        <location length="62" offset="1779"/>
+        <text>focally decreased breath sounds R - lower , L - lower Anterior Lung</text>
+      </annotation>
+      <annotation id="22">
+        <infon key="type">SSLIF</infon>
+        <location length="7" offset="1886"/>
+        <text>murmurs</text>
+      </annotation>
+      <annotation id="23">
+        <infon key="type">SSLIF</infon>
+        <location length="19" offset="1966"/>
+        <text>sanguinous drainage</text>
+      </annotation>
+      <annotation id="24">
+        <infon key="type">SSLIF</infon>
+        <location length="12" offset="1994"/>
+        <text>organomegaly</text>
+      </annotation>
+      <annotation id="25">
+        <infon key="type">SSLIF</infon>
+        <location length="6" offset="2011"/>
+        <text>masses</text>
+      </annotation>
+      <annotation id="26">
+        <infon key="type">SSLIF</infon>
+        <location length="17" offset="2022"/>
+        <text>pain on palpation</text>
+      </annotation>
+      <annotation id="27">
+        <infon key="type">SSLIF</infon>
+        <location length="5" offset="2071"/>
+        <text>obese</text>
+      </annotation>
+      <annotation id="28">
+        <infon key="type">SSLIF</infon>
+        <location length="5" offset="2116"/>
+        <text>edema</text>
+      </annotation>
+      <annotation id="29">
+        <infon key="type">SSLIF</infon>
+        <location length="4" offset="2404"/>
+        <text>pain</text>
+      </annotation>
+      <annotation id="30">
+        <infon key="type">Severity</infon>
+        <location length="4" offset="2498"/>
+        <text>mild</text>
+      </annotation>
+      <annotation id="31">
+        <infon key="type">SSLIF</infon>
+        <location length="27" offset="2503"/>
+        <text>decrease sensation to LLE</text>
+      </annotation>
+      <annotation id="32">
+        <infon key="type">Drug</infon>
+        <location length="8" offset="2566"/>
+        <text>Morphine</text>
+      </annotation>
+      <annotation id="33">
+        <infon key="type">Frequency</infon>
+        <location length="3" offset="2575"/>
+        <text>prn</text>
+      </annotation>
+      <annotation id="34">
+        <infon key="type">Indication</infon>
+        <location length="4" offset="2579"/>
+        <text>pain</text>
+      </annotation>
+      <annotation id="35">
+        <infon key="type">SSLIF</infon>
+        <location length="12" offset="2627"/>
+        <text>hypertension</text>
+      </annotation>
+      <annotation id="36">
+        <infon key="type">Drug</infon>
+        <location length="22" offset="2681"/>
+        <text>anti - hypertensive meds</text>
+      </annotation>
+      <annotation id="37">
+        <infon key="type">SSLIF</infon>
+        <location length="11" offset="2715"/>
+        <text>atelectasis</text>
+      </annotation>
+      <annotation id="38">
+        <infon key="type">Severity</infon>
+        <location length="4" offset="2741"/>
+        <text>Mild</text>
+      </annotation>
+      <annotation id="39">
+        <infon key="type">Indication</infon>
+        <location length="16" offset="2746"/>
+        <text>BL apical wheeze</text>
+      </annotation>
+      <annotation id="40">
+        <infon key="type">SSLIF</infon>
+        <location length="3" offset="2771"/>
+        <text>SOB</text>
+      </annotation>
+      <annotation id="41">
+        <infon key="type">Drug</infon>
+        <location length="15" offset="2784"/>
+        <text>bronchodilators</text>
+      </annotation>
+      <annotation id="42">
+        <infon key="type">Drug</infon>
+        <location length="7" offset="2803"/>
+        <text>Duonebs</text>
+      </annotation>
+      <annotation id="43">
+        <infon key="type">Frequency</infon>
+        <location length="3" offset="2811"/>
+        <text>prn</text>
+      </annotation>
+      <annotation id="44">
+        <infon key="type">SSLIF</infon>
+        <location length="11" offset="2852"/>
+        <text>hypovolemia</text>
+      </annotation>
+      <annotation id="45">
+        <infon key="type">SSLIF</infon>
+        <location length="17" offset="2869"/>
+        <text>Elevated creatine</text>
+      </annotation>
+      <annotation id="46">
+        <infon key="type">SSLIF</infon>
+        <location length="28" offset="2982"/>
+        <text>protein - calorie malnutrition</text>
+      </annotation>
+      <annotation id="47">
+        <infon key="type">SSLIF</infon>
+        <location length="13" offset="3039"/>
+        <text>hyperglycemia</text>
+      </annotation>
+      <annotation id="48">
+        <infon key="type">SSLIF</infon>
+        <location length="6" offset="3053"/>
+        <text>stress</text>
+      </annotation>
+      <annotation id="49">
+        <infon key="type">Indication</infon>
+        <location length="9" offset="3112"/>
+        <text>Analgesia</text>
+      </annotation>
+      <annotation id="50">
+        <infon key="type">Drug</infon>
+        <location length="8" offset="3151"/>
+        <text>morphine</text>
+      </annotation>
+      <annotation id="51">
+        <infon key="type">Frequency</infon>
+        <location length="3" offset="3160"/>
+        <text>prn</text>
+      </annotation>
+      <annotation id="52">
+        <infon key="type">SSLIF</infon>
+        <location length="3" offset="3233"/>
+        <text>DVT</text>
+      </annotation>
+      <annotation id="53">
+        <infon key="type">SSLIF</infon>
+        <location length="12" offset="3237"/>
+        <text>Stress Ulcer</text>
+      </annotation>
+      <annotation id="54">
+        <infon key="type">SSLIF</infon>
+        <location length="14" offset="3284"/>
+        <text>Pressure Ulcer</text>
+      </annotation>
+      <annotation id="55">
+        <infon key="type">Drug</infon>
+        <location length="11" offset="3559"/>
+        <text>antibiotics</text>
+      </annotation>
+      <annotation id="56">
+        <infon key="type">Drug</infon>
+        <location length="5" offset="3573"/>
+        <text>vanco</text>
+      </annotation>
+      <annotation id="57">
+        <infon key="type">Indication</infon>
+        <location length="20" offset="3583"/>
+        <text>surgical prophylaxis</text>
+      </annotation>
+      <annotation id="58">
+        <infon key="type">Dose</infon>
+        <location length="7" offset="3606"/>
+        <text>2 doses</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

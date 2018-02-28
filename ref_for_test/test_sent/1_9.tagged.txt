@@ -1,0 +1,99 @@
+Patient^O :^O Name^O ,^O Name^O Acct.#^O :^O Medical_Record_Number^O MR^O #^O :^O Medical_Record_Number^O
+D.O.B^O :^O Date^O Date^O of^O Date^O Location^O :^O Location^O Visit^O :^O
+Dictated^O Date^O 8^O :^O 17^O P^O Transcribed^O Date^O 9^O :^O 45^O
+:^O :^O P^O CLINIC^O NOTE^O DIAGNOSES^O :^O
+1.^O Lymphoplasmacytoid^B-SSLIF lymphoma^I-SSLIF involving^I-SSLIF bone^I-SSLIF marrow^I-SSLIF and^I-SSLIF spleen^I-SSLIF diagnosed^O initially^O in^O Date^O ,^O associated^O with^O progressively^O increasing^O IgG^B-SSLIF kappa^I-SSLIF paraprotein^I-SSLIF .^O
+2.^O Compression^B-SSLIF fractures^I-SSLIF of^I-SSLIF the^I-SSLIF spine^I-SSLIF secondary^O to^O lymphoma^B-SSLIF .^O
+In^O the^O past^O ,^O it^O has^O been^O associated^O with^O significant^B-Severity back^B-SSLIF pain^I-SSLIF .^O
+He^O is^O status^O post^O three^O kyphoplasties^O .^O
+The^O first^O in^O Date^O and^O two^O in^O Date^O .^O
+The^O first^O procedure^O was^O complicated^O by^O acute^O hemoglobin^B-SSLIF decrease^I-SSLIF for^O which^O he^O was^O hospitalized^O .^O
+Hemorrhagic^B-SSLIF pericardial^I-SSLIF effusion^I-SSLIF was^O diagnosed^O and^O drained^O .^O
+It^O was^O not^O malignant^B-SSLIF .^O
+He^O received^O 5^O units^O of^O red^O cells^O at^O that^O time^O .^O
+2.^O Extended^O hospitalization^O in^O Date^O .^O
+Then^O he^O was^O admitted^O for^O significant^B-Severity back^B-SSLIF pain^I-SSLIF and^O then^O developed^O Salmonella^B-SSLIF sepsis^I-SSLIF with^O necrotizing^B-SSLIF fasciitis^I-SSLIF of^I-SSLIF right^I-SSLIF gastrocnemius^I-SSLIF ,^O which^O required^O debridement^O .^O
+He^O had^O a^O residual^O ulcer^B-SSLIF on^I-SSLIF the^I-SSLIF medial^I-SSLIF malleolus^I-SSLIF of^I-SSLIF the^I-SSLIF right^I-SSLIF ankle^I-SSLIF ,^O which^O is^O now^O fully^O healed^O .^O
+He^O has^O required^O several^O hospitalizations^O for^O recurrent^O cellulitis^B-SSLIF of^I-SSLIF right^I-SSLIF leg^I-SSLIF and^O most^O recently^O in^O Date^O .^O
+During^O the^O prolonged^O hospitalization^O in^O Date^O ,^O he^O had^O respiratory^B-SSLIF arrest^I-SSLIF requiring^O prolonged^O intubation^O and^O renal^O dialysis^O .^O
+3.^O Bilateral^B-SSLIF DVT^I-SSLIF with^O right^B-Indication leg^I-Indication DVT^I-Indication in^O Date^O .^O
+He^O finished^O 6^B-Duration -^I-Duration month^I-Duration course^O of^O Coumadin^B-Drug after^O initially^O being^O treated^O with^O Lovenox^B-Drug .^O
+4.^O Psoriasis^B-SSLIF ,^O which^O is^O quiescent^O .^O
+5.^O Hypertension^B-SSLIF .^O
+6.^O Hypothyroidism^B-SSLIF .^O
+7.^O Chronic^O renal^B-SSLIF insufficiency^I-SSLIF ,^O which^O is^O multifactorial^O .^O
+CURRENT^O THERAPY^O :^O
+1^O .^O
+He^O is^O on^O thalidomide^B-Drug 200^B-Dose mg^I-Dose once^B-Frequency daily^I-Frequency for^I-Frequency 2^I-Frequency weeks^I-Frequency on^I-Frequency and^I-Frequency 2^I-Frequency weeks^I-Frequency off^I-Frequency .^O
+He^O also^O takes^O prednisone^B-Drug 5^B-Dose mg^I-Dose twice^B-Frequency daily^I-Frequency .^O
+2.^O Pamidronate^B-Drug 90^B-Dose mg^I-Dose intravenously^B-Route once^B-Frequency a^I-Frequency month^I-Frequency .^O
+3^O .^O
+He^O has^O been^O on^O Velcade^B-Drug two^B-Frequency weeks^I-Frequency out^I-Frequency of^I-Frequency each^I-Frequency month^I-Frequency with^O reduced^O dosing^O schedule^O of^O 1^B-Dose mg^I-Dose /^I-Dose m2^I-Dose once^B-Frequency a^I-Frequency week^I-Frequency .^O
+It^O was^O then^O discontinued^O secondary^O to^O neuropathy^B-ADE .^O
+It^O should^O be^O noted^O that^O did^O not^O respond^O to^O Velcade^B-Drug and^O thalidomide^B-Drug .^O
+PAST^O CHEMOTHERAPY^O :^O
+1^O .^O
+He^O has^O received^O 6^B-Duration cycles^I-Duration of^O Rituxan^B-Drug plus^I-Drug CVP^I-Drug completed^O in^O Date^O .^O
+2.^O Maintenance^O Rituxan^B-Drug completed^O in^O Date^O .^O
+3.^O Revlimid^B-Drug ,^O which^O was^O discontinued^O secondary^O to^O skin^B-ADE rash^I-ADE .^O
+4.^O Fludarabine^B-Drug in^O Date^O ,^O which^O rendered^O him^O profoundly^B-Severity pancytopenic^B-ADE .^O
+ADDITIONAL^O MEDICATIONS^O :^O MS^B-Drug Contin^I-Drug 15^B-Dose mg^I-Dose p.o.^B-Route b.i.d.^B-Frequency ,^O MSIR^B-Drug 30^B-Dose mg^I-Dose every^B-Frequency 4^I-Frequency hours^I-Frequency for^O breakthrough^O pain^B-Indication .^O
+Cartia^B-Drug XT^I-Drug ,^O doxazosin^B-Drug ,^O Protonix^B-Drug ,^O Lasix^B-Drug ,^O Levoxyl^B-Drug ,^O multivitamins^B-Drug and^O Neurontin^B-Drug 200^B-Dose mg^I-Dose b.i.d.^B-Frequency
+He^O received^O his^O refills^O for^O MS^B-Drug Contin^I-Drug and^O MSIR^B-Drug today^O .^O
+INTERIM^O HISTORY^O :^O Mr^O .^O
+Name^O returns^O for^O followup^O of^O his^O lymphoma^B-SSLIF .^O
+He^O recently^O sustained^O a^O fall^B-SSLIF secondary^O to^O slipping^O on^O ice^O .^O
+He^O hurt^O his^O lower^O back^O and^O has^O moderate^B-Severity ,^O 4^B-Severity /^I-Severity 10^I-Severity back^B-SSLIF pain^I-SSLIF .^O
+He^O is^O currently^O on^O MS^B-Drug Contin^I-Drug and^O MSIR^B-Drug with^O relief^O of^O his^O symptoms^O .^O
+He^O continues^O to^O have^O neuropathy^B-Indication from^O Velcade^B-Drug ,^O which^O is^O relieved^O with^O Neurontin^B-Drug 200^B-Dose mg^I-Dose p.o.^B-Route b.i.d.^B-Frequency
+He^O also^O has^O constipation^B-Indication and^O is^O taking^O Colace^B-Drug 100^B-Dose mg^I-Dose p.o.^B-Route b.i.d.^B-Frequency with^O relief^O of^O symptoms^O .^O
+He^O is^O also^O being^O followed^O by^O endocrinology^O for^O weight^B-SSLIF gain^I-SSLIF .^O
+He^O has^O low^B-SSLIF testosterone^I-SSLIF levels^O and^O has^O been^O started^O on^O replacement^O over^O the^O last^O 10^O days^O .^O
+REVIEW^O OF^O SYSTEMS^O :^O He^O denies^O any^O history^O of^O fevers^B-SSLIF ,^O night^B-SSLIF sweats^I-SSLIF ,^O chills^B-SSLIF ,^O headache^B-SSLIF or^O visual^B-SSLIF blurring^I-SSLIF .^O
+He^O denies^O any^O chest^B-SSLIF pain^I-SSLIF ,^O cough^B-SSLIF ,^O dyspnea^B-SSLIF ,^O orthopnea^B-SSLIF and^O no^O peripheral^B-SSLIF edema^I-SSLIF .^O
+He^O denies^O any^O abdominal^B-SSLIF pain^I-SSLIF ,^O nausea^B-SSLIF or^O vomiting^B-SSLIF .^O
+He^O has^O constipation^B-SSLIF .^O
+He^O denies^O any^O episodes^O of^O diarrhea^B-SSLIF ,^O bright^B-SSLIF red^I-SSLIF blood^I-SSLIF per^I-SSLIF rectum^I-SSLIF or^O melena^B-SSLIF .^O
+He^O has^O significant^B-Severity peripheral^B-ADE neuropathy^I-ADE secondary^O to^O Velcade^B-Drug and^O is^O on^O Neurontin^B-Drug .^O
+FAMILY^O HISTORY^O :^O Acute^O leukemia^B-SSLIF in^O his^O father^O .^O
+His^O father^O also^O had^O bladder^B-SSLIF cancer^I-SSLIF .^O
+He^O has^O one^O sibling^O who^O is^O not^O HLA^O match^O .^O
+He^O has^O no^O family^O history^O of^O lymphoma^B-SSLIF or^O multiple^B-SSLIF myeloma^I-SSLIF .^O
+His^O ECOG^O performance^O status^O is^O 1^O ,^O which^O is^O unchanged^O .^O
+He^O is^O limited^O due^O to^O back^B-SSLIF pain^I-SSLIF and^O cannot^B-SSLIF stand^I-SSLIF for^I-SSLIF prolonged^I-SSLIF periods^I-SSLIF of^O time^O .^O
+He^O ,^O however^O ,^O lives^O independently^O and^O is^O independent^O with^O all^O ADLs^O .^O
+PHYSICAL^O EXAMINATION^O :^O
+GENERAL^O :^O He^O is^O alert^O and^O oriented^O x3^O .^O
+VITAL^O SIGNS^O :^O Stable^O .^O
+Temperature^O 98.3^O ,^O pulse^O 72^O ,^O blood^O pressure^O 140^O /^O 90^O ,^O respiratory^O rate^O 16^O and^O weight^O is^O 117^O kilograms^O .^O
+No^O cervical^B-SSLIF ,^I-SSLIF supraclavicular^I-SSLIF or^I-SSLIF axillary^I-SSLIF lymphadenopathy^I-SSLIF .^O
+LUNGS^O :^O Clear^O to^O auscultation^O bilaterally^O .^O
+CARDIOVASCULAR^O :^O S1^O ,^O S2^O present^O ,^O no^O murmurs^B-SSLIF .^O
+ABDOMEN^O :^O Soft^O ,^O nontender^B-SSLIF and^O nondistended^B-SSLIF .^O
+Good^O bowel^O sounds^O .^O
+No^O hepatosplenomegaly^B-SSLIF is^O palpable^O .^O
+EXTREMITIES^O :^O There^O is^O 2+^O peripheral^B-SSLIF edema^I-SSLIF .^O
+He^O is^O wearing^O compression^O stocking^O on^O the^O right^O leg^O .^O
+NEUROLOGICAL^O :^O Nonfocal^O .^O
+His^O gait^B-SSLIF is^I-SSLIF abnormal^I-SSLIF secondary^O to^O pain^B-SSLIF .^O
+LABORATORY^O DATA^O :^O WBC^O 3.7^O ,^O hemoglobin^O 12.4^O ,^O hematocrit^O 36.2^O ,^O platelet^O count^O is^O 143^O ,^O 000^O ,^O BUN^O is^O 22^O ,^O creatinine^O is^O 1.35^O ,^O calcium^O is^O 9.4^O ,^O kappa^O 328.39^O ,^O lambda^O light^O chain^O 1.46^O ,^O ratio^O 224.92^O ,^O IgG^O 3580^O ,^O which^O has^O increased^O from^O before^O .^O
+ASSESSMENT^O AND^O PLAN^O :^O Mr^O .^O
+Name^O is^O a^O 53^O -^O year^O -^O old^O male^O with^O lymphoplasmacytoid^B-SSLIF lymphoma^I-SSLIF that^O is^O acting^O more^O like^O multiple^B-SSLIF myeloma^I-SSLIF and^O affecting^B-SSLIF his^I-SSLIF bones^I-SSLIF .^O
+His^O disease^O is^O currently^O stable^O .^O
+He^O was^O better^O controlled^O on^O Velcade^B-Drug ,^O but^O developed^O significant^B-Severity peripheral^B-ADE neuropathy^I-ADE .^O
+He^O is^O getting^O better^O with^O Neurontin^B-Drug .^O
+The^O patient^O is^O worried^O about^O losing^O his^O long^O -^O term^O disability^O .^O
+He^O is^O unable^O to^O stand^O for^O prolonged^O period^O of^O time^O and^O would^O like^O to^O return^O to^O work^O but^O is^O unable^O to^O .^O
+He^O will^O continue^O to^O receive^O Zometa^B-Drug once^B-Frequency monthly^I-Frequency .^O
+He^O will^O continue^O on^O thalidomide^B-Drug 100^B-Dose mg^I-Dose once^B-Frequency daily^I-Frequency ,^I-Frequency 2^I-Frequency weeks^I-Frequency on^I-Frequency and^I-Frequency 2^I-Frequency weeks^I-Frequency off^I-Frequency .^O
+He^O will^O also^O continue^O prednisone^B-Drug 5^B-Dose mg^I-Dose twice^B-Frequency daily^I-Frequency .^O
+He^O will^O follow^O up^O with^O Dr^O .^O
+Name^O at^O Hospital^O .^O
+He^O is^O not^O a^O transplant^O candidate^O because^O his^O disease^O is^O minimally^O responsive^O to^O chemotherapy^B-Drug .^O
+He^O would^O be^O a^O good^O candidate^O for^O clinical^O trials^O .^O
+He^O will^O follow^O up^O with^O us^O in^O 1^O month^O .^O
+I^O saw^O and^O evaluated^O the^O patient^O .^O
+I^O discussed^O the^O case^O with^O the^O fellow^O and^O agree^O with^O the^O findings^O and^O plan^O as^O documented^O in^O the^O fellow's^O note^O .^O
+Reviewed^O Name^O Name^O ,^O MD^O Date^O 16^O :^O 26^O E^O -^O Signed^O By^O Name^O Name^O Name^O ,^O MD^O Date^O 18^O :^O 49^O
+____________________________^O Name^O Name^O Name^O ,^O MD^O Patient^O evaluated^O by^O and^O note^O dictated^O by^O :^O Name^O Name^O ,^O MD^O
+Medical_Record_Number^O cc^O :^O Name^O Name^O ,^O MD^O

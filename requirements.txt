@@ -1,3 +1,4 @@
 theano 
 futures
-mkl
+bioc
+future

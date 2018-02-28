@@ -1,0 +1,1387 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<collection>
+  <source></source>
+  <date></date>
+  <key></key>
+  <document>
+    <id>1_148</id>
+    <passage>
+      <offset>0</offset>
+      <annotation id="15574">
+        <infon key="type">Dose</infon>
+        <location length="6" offset="5717"/>
+        <text>500 MG</text>
+      </annotation>
+      <annotation id="15575">
+        <infon key="type">Route</infon>
+        <location length="2" offset="5727"/>
+        <text>PO</text>
+      </annotation>
+      <annotation id="15638">
+        <infon key="type">SSLIF</infon>
+        <location length="10" offset="1526"/>
+        <text>CELLULITIS</text>
+      </annotation>
+      <annotation id="15639">
+        <infon key="type">SSLIF</infon>
+        <location length="24" offset="1560"/>
+        <text>DVT, BILATERAL LOWER EXT</text>
+      </annotation>
+      <annotation id="15640">
+        <infon key="type">SSLIF</infon>
+        <location length="8" offset="1608"/>
+        <text>LYMPHOMA</text>
+      </annotation>
+      <annotation id="15641">
+        <infon key="type">SSLIF</infon>
+        <location length="29" offset="1640"/>
+        <text>ACUTE ON CHRONIC RENAL INSUFF</text>
+      </annotation>
+      <annotation id="15642">
+        <infon key="type">SSLIF</infon>
+        <location length="12" offset="1693"/>
+        <text>HYPONATREMIA</text>
+      </annotation>
+      <annotation id="15643">
+        <infon key="type">SSLIF</infon>
+        <location length="6" offset="1729"/>
+        <text>ANEMIA</text>
+      </annotation>
+      <annotation id="15644">
+        <infon key="type">SSLIF</infon>
+        <location length="9" offset="1776"/>
+        <text>BACK PAIN</text>
+      </annotation>
+      <annotation id="15645">
+        <infon key="type">SSLIF</infon>
+        <location length="17" offset="1944"/>
+        <text>RT LEG CELLULITIS</text>
+      </annotation>
+      <annotation id="15646">
+        <infon key="type">SSLIF</infon>
+        <location length="29" offset="1983"/>
+        <text>BILATERALLY \nLOWER EXT DVT'S</text>
+      </annotation>
+      <annotation id="15647">
+        <infon key="type">Indication</infon>
+        <location length="10" offset="2034"/>
+        <text>CELLULITIS</text>
+      </annotation>
+      <annotation id="15648">
+        <infon key="type">Duration</infon>
+        <location length="8" offset="2087"/>
+        <text>7-10 DAY</text>
+      </annotation>
+      <annotation id="15649">
+        <infon key="type">Drug</infon>
+        <location length="10" offset="2106"/>
+        <text>VANCOMYCIN</text>
+      </annotation>
+      <annotation id="15650">
+        <infon key="type">Drug</infon>
+        <location length="7" offset="2138"/>
+        <text>HEPARIN</text>
+      </annotation>
+      <annotation id="15651">
+        <infon key="type">Route</infon>
+        <location length="3" offset="2146"/>
+        <text>GTT</text>
+      </annotation>
+      <annotation id="15652">
+        <infon key="type">Indication</infon>
+        <location length="5" offset="2119"/>
+        <text>DVT'S</text>
+      </annotation>
+      <annotation id="15653">
+        <infon key="type">Drug</infon>
+        <location length="8" offset="2156"/>
+        <text>COUMADIN</text>
+      </annotation>
+      <annotation id="15654">
+        <infon key="type">Drug</infon>
+        <location length="7" offset="2182"/>
+        <text>LOVENOX</text>
+      </annotation>
+      <annotation id="15655">
+        <infon key="type">Drug</infon>
+        <location length="8" offset="2192"/>
+        <text>COUMADIN</text>
+      </annotation>
+      <annotation id="15656">
+        <infon key="type">SSLIF</infon>
+        <location length="29" offset="2225"/>
+        <text>ACUTE ON CHRONIC RENAL INSUFF</text>
+      </annotation>
+      <annotation id="15657">
+        <infon key="type">Drug</infon>
+        <location length="7" offset="2295"/>
+        <text>NSAID'S</text>
+      </annotation>
+      <annotation id="15658">
+        <infon key="type">SSLIF</infon>
+        <location length="3" offset="2337"/>
+        <text>ARF</text>
+      </annotation>
+      <annotation id="15659">
+        <infon key="type">ADE</infon>
+        <location length="3" offset="2337"/>
+        <text>ARF</text>
+      </annotation>
+      <annotation id="15662">
+        <infon key="type">SSLIF</infon>
+        <location length="11" offset="3264"/>
+        <text>lung cancer</text>
+      </annotation>
+      <annotation id="15663">
+        <infon key="type">SSLIF</infon>
+        <location length="13" offset="3277"/>
+        <text>heart disease</text>
+      </annotation>
+      <annotation id="15664">
+        <infon key="type">SSLIF</infon>
+        <location length="20" offset="3292"/>
+        <text>respiratory problems</text>
+      </annotation>
+      <annotation id="15665">
+        <infon key="type">SSLIF</infon>
+        <location length="5" offset="3129"/>
+        <text>death</text>
+      </annotation>
+      <annotation id="15666">
+        <infon key="type">SSLIF</infon>
+        <location length="3" offset="3180"/>
+        <text>die</text>
+      </annotation>
+      <annotation id="15670">
+        <infon key="type">SSLIF</infon>
+        <location length="5" offset="4251"/>
+        <text>FEVER</text>
+      </annotation>
+      <annotation id="15671">
+        <infon key="type">SSLIF</infon>
+        <location length="7" offset="4268"/>
+        <text>REDNESS</text>
+      </annotation>
+      <annotation id="15672">
+        <infon key="type">SSLIF</infon>
+        <location length="18" offset="4281"/>
+        <text>SWELLING OF RT LEG</text>
+      </annotation>
+      <annotation id="15673">
+        <infon key="type">SSLIF</infon>
+        <location length="12" offset="4301"/>
+        <text>PAIN IN LEGS</text>
+      </annotation>
+      <annotation id="15674">
+        <infon key="type">SSLIF</infon>
+        <location length="19" offset="4315"/>
+        <text>SHORTNESS OF BREATH</text>
+      </annotation>
+      <annotation id="15675">
+        <infon key="type">SSLIF</infon>
+        <location length="10" offset="4336"/>
+        <text>CHEST PAIN</text>
+      </annotation>
+      <annotation id="15679">
+        <infon key="type">Drug</infon>
+        <location length="3" offset="4795"/>
+        <text>ABX</text>
+      </annotation>
+      <annotation id="15680">
+        <infon key="type">Drug</infon>
+        <location length="7" offset="4826"/>
+        <text>LOVENOX</text>
+      </annotation>
+      <annotation id="15681">
+        <infon key="type">Frequency</infon>
+        <location length="3" offset="4822"/>
+        <text>BID</text>
+      </annotation>
+      <annotation id="15682">
+        <infon key="type">Route</infon>
+        <location length="2" offset="4792"/>
+        <text>IV</text>
+      </annotation>
+      <annotation id="15684">
+        <infon key="type">Drug</infon>
+        <location length="5" offset="5371"/>
+        <text>XANAX</text>
+      </annotation>
+      <annotation id="15685">
+        <infon key="type">Drug</infon>
+        <location length="10" offset="5428"/>
+        <text>ALPRAZOLAM</text>
+      </annotation>
+      <annotation id="15686">
+        <infon key="type">Drug</infon>
+        <location length="7" offset="5554"/>
+        <text>ASPIRIN</text>
+      </annotation>
+      <annotation id="15687">
+        <infon key="type">Drug</infon>
+        <location length="7" offset="5611"/>
+        <text>ASPIRIN</text>
+      </annotation>
+      <annotation id="15688">
+        <infon key="type">Dose</infon>
+        <location length="8" offset="5619"/>
+        <text>CHEWABLE</text>
+      </annotation>
+      <annotation id="15689">
+        <infon key="type">Dose</infon>
+        <location length="5" offset="5595"/>
+        <text>81 MG</text>
+      </annotation>
+      <annotation id="15690">
+        <infon key="type">Dose</infon>
+        <location length="7" offset="5412"/>
+        <text>0.25 MG</text>
+      </annotation>
+      <annotation id="15691">
+        <infon key="type">Dose</infon>
+        <location length="5" offset="5839"/>
+        <text>1 TAB</text>
+      </annotation>
+      <annotation id="15692">
+        <infon key="type">Dose</infon>
+        <location length="5" offset="6032"/>
+        <text>10 MG</text>
+      </annotation>
+      <annotation id="15693">
+        <infon key="type">Dose</infon>
+        <location length="3" offset="5698"/>
+        <text>TAB</text>
+      </annotation>
+      <annotation id="15694">
+        <infon key="type">Drug</infon>
+        <location length="21" offset="5676"/>
+        <text>OYSTER SHELL CA/VIT D</text>
+      </annotation>
+      <annotation id="15695">
+        <infon key="type">Drug</infon>
+        <location length="27" offset="5733"/>
+        <text>CALCIUM CARBONATE/VITAMIN D</text>
+      </annotation>
+      <annotation id="15696">
+        <infon key="type">Drug</infon>
+        <location length="10" offset="5798"/>
+        <text>CLARITIN-D</text>
+      </annotation>
+      <annotation id="15697">
+        <infon key="type">Drug</infon>
+        <location length="19" offset="5991"/>
+        <text>CYCLOBENZAPRINE HCL</text>
+      </annotation>
+      <annotation id="15698">
+        <infon key="type">Drug</infon>
+        <location length="19" offset="6048"/>
+        <text>CYCLOBENZAPRINE HCL</text>
+      </annotation>
+      <annotation id="15699">
+        <infon key="type">Drug</infon>
+        <location length="16" offset="6121"/>
+        <text>DILTIAZEM HCL XR</text>
+      </annotation>
+      <annotation id="15700">
+        <infon key="type">Drug</infon>
+        <location length="16" offset="6178"/>
+        <text>DILTIAZEM HCL XR</text>
+      </annotation>
+      <annotation id="15701">
+        <infon key="type">Drug</infon>
+        <location length="6" offset="6243"/>
+        <text>COLACE</text>
+      </annotation>
+      <annotation id="15702">
+        <infon key="type">Drug</infon>
+        <location length="15" offset="6300"/>
+        <text>DOCUSATE SODIUM</text>
+      </annotation>
+      <annotation id="15703">
+        <infon key="type">Drug</infon>
+        <location length="7" offset="6367"/>
+        <text>CARDURA</text>
+      </annotation>
+      <annotation id="15704">
+        <infon key="type">Drug</infon>
+        <location length="18" offset="6424"/>
+        <text>DOXAZOSIN MESYLATE</text>
+      </annotation>
+      <annotation id="15705">
+        <infon key="type">Drug</infon>
+        <location length="19" offset="6490"/>
+        <text>DOXYCYCLINE HYCLATE</text>
+      </annotation>
+      <annotation id="15706">
+        <infon key="type">Drug</infon>
+        <location length="19" offset="6547"/>
+        <text>DOXYCYCLINE HYCLATE</text>
+      </annotation>
+      <annotation id="15707">
+        <infon key="type">Drug</infon>
+        <location length="6" offset="6675"/>
+        <text>NEXIUM</text>
+      </annotation>
+      <annotation id="15708">
+        <infon key="type">Drug</infon>
+        <location length="27" offset="6732"/>
+        <text>ESOMEPRAZOLE MAG TRIHYDRATE</text>
+      </annotation>
+      <annotation id="15709">
+        <infon key="type">Drug</infon>
+        <location length="9" offset="6797"/>
+        <text>DURAGESIC</text>
+      </annotation>
+      <annotation id="15710">
+        <infon key="type">Drug</infon>
+        <location length="8" offset="6854"/>
+        <text>FENTANYL</text>
+      </annotation>
+      <annotation id="15711">
+        <infon key="type">Drug</infon>
+        <location length="11" offset="6913"/>
+        <text>GLUCOSAMINE</text>
+      </annotation>
+      <annotation id="15712">
+        <infon key="type">Drug</infon>
+        <location length="7" offset="6933"/>
+        <text>LOVENOX</text>
+      </annotation>
+      <annotation id="15713">
+        <infon key="type">Drug</infon>
+        <location length="8" offset="7095"/>
+        <text>COUMADIN</text>
+      </annotation>
+      <annotation id="15714">
+        <infon key="type">Drug</infon>
+        <location length="16" offset="7124"/>
+        <text>MULTIPLE VITAMIN</text>
+      </annotation>
+      <annotation id="15715">
+        <infon key="type">Drug</infon>
+        <location length="13" offset="7181"/>
+        <text>MULTIVITAMINS</text>
+      </annotation>
+      <annotation id="15716">
+        <infon key="type">Drug</infon>
+        <location length="12" offset="7468"/>
+        <text>PANTOPROZOLE</text>
+      </annotation>
+      <annotation id="15717">
+        <infon key="type">Drug</infon>
+        <location length="10" offset="7597"/>
+        <text>PREDNISONE</text>
+      </annotation>
+      <annotation id="15718">
+        <infon key="type">Drug</infon>
+        <location length="10" offset="7654"/>
+        <text>PREDNISONE</text>
+      </annotation>
+      <annotation id="15719">
+        <infon key="type">Drug</infon>
+        <location length="24" offset="7719"/>
+        <text>PROCHLORPERAZINE MALEATE</text>
+      </annotation>
+      <annotation id="15720">
+        <infon key="type">Drug</infon>
+        <location length="24" offset="7776"/>
+        <text>PROCHLORPERAZINE MALEATE</text>
+      </annotation>
+      <annotation id="15721">
+        <infon key="type">Drug</infon>
+        <location length="7" offset="7910"/>
+        <text>SENOKOT</text>
+      </annotation>
+      <annotation id="15722">
+        <infon key="type">Drug</infon>
+        <location length="5" offset="7967"/>
+        <text>SENNA</text>
+      </annotation>
+      <annotation id="15723">
+        <infon key="type">Drug</infon>
+        <location length="11" offset="8098"/>
+        <text>THALIDOMIDE</text>
+      </annotation>
+      <annotation id="15724">
+        <infon key="type">Drug</infon>
+        <location length="11" offset="8155"/>
+        <text>THALIDOMIDE</text>
+      </annotation>
+      <annotation id="15725">
+        <infon key="type">Drug</infon>
+        <location length="8" offset="8227"/>
+        <text>COUMADIN</text>
+      </annotation>
+      <annotation id="15726">
+        <infon key="type">Drug</infon>
+        <location length="15" offset="8284"/>
+        <text>WARFARIN SODIUM</text>
+      </annotation>
+      <annotation id="15728">
+        <infon key="type">Dose</infon>
+        <location length="5" offset="6138"/>
+        <text>240MG</text>
+      </annotation>
+      <annotation id="15729">
+        <infon key="type">Dose</infon>
+        <location length="6" offset="6284"/>
+        <text>100 MG</text>
+      </annotation>
+      <annotation id="15730">
+        <infon key="type">Dose</infon>
+        <location length="5" offset="6195"/>
+        <text>240MG</text>
+      </annotation>
+      <annotation id="15731">
+        <infon key="type">Dose</infon>
+        <location length="4" offset="6408"/>
+        <text>4 MG</text>
+      </annotation>
+      <annotation id="15732">
+        <infon key="type">Dose</infon>
+        <location length="7" offset="6513"/>
+        <text>CAPSULE</text>
+      </annotation>
+      <annotation id="15733">
+        <infon key="type">Dose</infon>
+        <location length="6" offset="6531"/>
+        <text>100 MG</text>
+      </annotation>
+      <annotation id="15734">
+        <infon key="type">Dose</infon>
+        <location length="5" offset="6716"/>
+        <text>40 MG</text>
+      </annotation>
+      <annotation id="15735">
+        <infon key="type">Dose</infon>
+        <location length="6" offset="6838"/>
+        <text>2.5 MG</text>
+      </annotation>
+      <annotation id="15736">
+        <infon key="type">Route</infon>
+        <location length="5" offset="6863"/>
+        <text>PATCH</text>
+      </annotation>
+      <annotation id="15737">
+        <infon key="type">Route</infon>
+        <location length="2" offset="6848"/>
+        <text>TP</text>
+      </annotation>
+      <annotation id="15738">
+        <infon key="type">Dose</infon>
+        <location length="6" offset="6974"/>
+        <text>100 mg</text>
+      </annotation>
+      <annotation id="15739">
+        <infon key="type">Dose</infon>
+        <location length="5" offset="7509"/>
+        <text>40 MG</text>
+      </annotation>
+      <annotation id="15740">
+        <infon key="type">Dose</infon>
+        <location length="5" offset="7638"/>
+        <text>10 MG</text>
+      </annotation>
+      <annotation id="15741">
+        <infon key="type">Dose</infon>
+        <location length="6" offset="7747"/>
+        <text>TABLET</text>
+      </annotation>
+      <annotation id="15742">
+        <infon key="type">Dose</infon>
+        <location length="6" offset="7951"/>
+        <text>374 MG</text>
+      </annotation>
+      <annotation id="15743">
+        <infon key="type">Dose</infon>
+        <location length="7" offset="8110"/>
+        <text>CAPSULE</text>
+      </annotation>
+      <annotation id="15744">
+        <infon key="type">Dose</infon>
+        <location length="6" offset="8139"/>
+        <text>100 MG</text>
+      </annotation>
+      <annotation id="15745">
+        <infon key="type">Dose</infon>
+        <location length="4" offset="8268"/>
+        <text>5 MG</text>
+      </annotation>
+      <annotation id="15746">
+        <infon key="type">Dose</infon>
+        <location length="5" offset="7760"/>
+        <text>10 MG</text>
+      </annotation>
+      <annotation id="15747">
+        <infon key="type">Dose</infon>
+        <location length="3" offset="7169"/>
+        <text>CAP</text>
+      </annotation>
+      <annotation id="15748">
+        <infon key="type">Dose</infon>
+        <location length="1" offset="7165"/>
+        <text>1</text>
+      </annotation>
+      <annotation id="15749">
+        <infon key="type">Route</infon>
+        <location length="2" offset="5422"/>
+        <text>PO</text>
+      </annotation>
+      <annotation id="15750">
+        <infon key="type">Route</infon>
+        <location length="2" offset="5605"/>
+        <text>PO</text>
+      </annotation>
+      <annotation id="15751">
+        <infon key="type">Route</infon>
+        <location length="2" offset="5849"/>
+        <text>PO</text>
+      </annotation>
+      <annotation id="15752">
+        <infon key="type">Route</infon>
+        <location length="2" offset="6042"/>
+        <text>PO</text>
+      </annotation>
+      <annotation id="15753">
+        <infon key="type">Route</infon>
+        <location length="2" offset="6172"/>
+        <text>PO</text>
+      </annotation>
+      <annotation id="15754">
+        <infon key="type">Route</infon>
+        <location length="2" offset="6294"/>
+        <text>PO</text>
+      </annotation>
+      <annotation id="15755">
+        <infon key="type">Route</infon>
+        <location length="2" offset="6418"/>
+        <text>PO</text>
+      </annotation>
+      <annotation id="15756">
+        <infon key="type">Route</infon>
+        <location length="2" offset="6541"/>
+        <text>PO</text>
+      </annotation>
+      <annotation id="15757">
+        <infon key="type">Route</infon>
+        <location length="2" offset="6726"/>
+        <text>PO</text>
+      </annotation>
+      <annotation id="15758">
+        <infon key="type">Route</infon>
+        <location length="2" offset="6984"/>
+        <text>SQ</text>
+      </annotation>
+      <annotation id="15759">
+        <infon key="type">Route</infon>
+        <location length="2" offset="7175"/>
+        <text>PO</text>
+      </annotation>
+      <annotation id="15760">
+        <infon key="type">Route</infon>
+        <location length="2" offset="7519"/>
+        <text>PO</text>
+      </annotation>
+      <annotation id="15761">
+        <infon key="type">Route</infon>
+        <location length="2" offset="7648"/>
+        <text>PO</text>
+      </annotation>
+      <annotation id="15762">
+        <infon key="type">Route</infon>
+        <location length="2" offset="7770"/>
+        <text>PO</text>
+      </annotation>
+      <annotation id="15763">
+        <infon key="type">Route</infon>
+        <location length="2" offset="7961"/>
+        <text>PO</text>
+      </annotation>
+      <annotation id="15764">
+        <infon key="type">Route</infon>
+        <location length="2" offset="8149"/>
+        <text>PO</text>
+      </annotation>
+      <annotation id="15765">
+        <infon key="type">Route</infon>
+        <location length="2" offset="8278"/>
+        <text>PO</text>
+      </annotation>
+      <annotation id="15766">
+        <infon key="type">Frequency</infon>
+        <location length="16" offset="5478"/>
+        <text>Four Times a Day</text>
+      </annotation>
+      <annotation id="15767">
+        <infon key="type">Indication</infon>
+        <location length="7" offset="5541"/>
+        <text>ANXIETY</text>
+      </annotation>
+      <annotation id="15768">
+        <infon key="type">Frequency</infon>
+        <location length="9" offset="5661"/>
+        <text>Every Day</text>
+      </annotation>
+      <annotation id="15769">
+        <infon key="type">Frequency</infon>
+        <location length="9" offset="5783"/>
+        <text>Every Day</text>
+      </annotation>
+      <annotation id="15770">
+        <infon key="type">Frequency</infon>
+        <location length="16" offset="5905"/>
+        <text>One Time Per Day</text>
+      </annotation>
+      <annotation id="15771">
+        <infon key="type">Indication</infon>
+        <location length="17" offset="5968"/>
+        <text>ALLERGIC RHINITIS</text>
+      </annotation>
+      <annotation id="15772">
+        <infon key="type">Frequency</infon>
+        <location length="17" offset="6098"/>
+        <text>Three Times a Day</text>
+      </annotation>
+      <annotation id="15773">
+        <infon key="type">Frequency</infon>
+        <location length="9" offset="6228"/>
+        <text>Every Day</text>
+      </annotation>
+      <annotation id="15774">
+        <infon key="type">Frequency</infon>
+        <location length="11" offset="6350"/>
+        <text>Twice a Day</text>
+      </annotation>
+      <annotation id="15775">
+        <infon key="type">Frequency</infon>
+        <location length="14" offset="6597"/>
+        <text>Every 12 Hours</text>
+      </annotation>
+      <annotation id="15776">
+        <infon key="type">Frequency</infon>
+        <location length="9" offset="6782"/>
+        <text>Every Day</text>
+      </annotation>
+      <annotation id="15777">
+        <infon key="type">Frequency</infon>
+        <location length="3" offset="6904"/>
+        <text>Q3D</text>
+      </annotation>
+      <annotation id="15778">
+        <infon key="type">Frequency</infon>
+        <location length="11" offset="7040"/>
+        <text>Twice a Day</text>
+      </annotation>
+      <annotation id="15779">
+        <infon key="type">Frequency</infon>
+        <location length="9" offset="7231"/>
+        <text>Every Day</text>
+      </annotation>
+      <annotation id="15780">
+        <infon key="type">Frequency</infon>
+        <location length="25" offset="7826"/>
+        <text>Every Six Hours as Needed</text>
+      </annotation>
+      <annotation id="15781">
+        <infon key="type">Indication</infon>
+        <location length="6" offset="7898"/>
+        <text>NAUSEA</text>
+      </annotation>
+      <annotation id="15782">
+        <infon key="type">Indication</infon>
+        <location length="12" offset="8080"/>
+        <text>CONSTIPATION</text>
+      </annotation>
+      <annotation id="15783">
+        <infon key="type">Frequency</infon>
+        <location length="11" offset="8017"/>
+        <text>Twice a Day</text>
+      </annotation>
+      <annotation id="15784">
+        <infon key="type">Frequency</infon>
+        <location length="16" offset="8205"/>
+        <text>One Time Per Day</text>
+      </annotation>
+      <annotation id="15785">
+        <infon key="type">Frequency</infon>
+        <location length="13" offset="8334"/>
+        <text>Daily at 5 pm</text>
+      </annotation>
+      <annotation id="15786">
+        <infon key="type">Frequency</infon>
+        <location length="10" offset="6474"/>
+        <text>At Bedtime</text>
+      </annotation>
+      <annotation id="15787">
+        <infon key="type">Frequency</infon>
+        <location length="16" offset="7575"/>
+        <text>One Time Per Day</text>
+      </annotation>
+      <annotation id="15788">
+        <infon key="type">Frequency</infon>
+        <location length="9" offset="7704"/>
+        <text>Every Day</text>
+      </annotation>
+      <annotation id="15790">
+        <infon key="type">Drug</infon>
+        <location length="3" offset="2026"/>
+        <text>ABX</text>
+      </annotation>
+      <relation id="3405">
+        <infon key="type">du</infon>
+        <node refid="15649" role="annotation 1"/>
+        <node refid="15648" role="annotation 2"/>
+      </relation>
+      <relation id="3406">
+        <infon key="type">reason</infon>
+        <node refid="15649" role="annotation 1"/>
+        <node refid="15647" role="annotation 2"/>
+      </relation>
+      <relation id="3407">
+        <infon key="type">manner/route</infon>
+        <node refid="15650" role="annotation 1"/>
+        <node refid="15651" role="annotation 2"/>
+      </relation>
+      <relation id="3408">
+        <infon key="type">reason</infon>
+        <node refid="15650" role="annotation 1"/>
+        <node refid="15652" role="annotation 2"/>
+      </relation>
+      <relation id="3409">
+        <infon key="type">reason</infon>
+        <node refid="15653" role="annotation 1"/>
+        <node refid="15652" role="annotation 2"/>
+      </relation>
+      <relation id="3410">
+        <infon key="type">reason</infon>
+        <node refid="15654" role="annotation 1"/>
+        <node refid="15652" role="annotation 2"/>
+      </relation>
+      <relation id="3411">
+        <infon key="type">reason</infon>
+        <node refid="15655" role="annotation 1"/>
+        <node refid="15652" role="annotation 2"/>
+      </relation>
+      <relation id="3412">
+        <infon key="type">adverse</infon>
+        <node refid="15657" role="annotation 1"/>
+        <node refid="15659" role="annotation 2"/>
+      </relation>
+      <relation id="3413">
+        <infon key="type">manner/route</infon>
+        <node refid="15679" role="annotation 1"/>
+        <node refid="15682" role="annotation 2"/>
+      </relation>
+      <relation id="3414">
+        <infon key="type">fr</infon>
+        <node refid="15680" role="annotation 1"/>
+        <node refid="15681" role="annotation 2"/>
+      </relation>
+      <relation id="3415">
+        <infon key="type">do</infon>
+        <node refid="15684" role="annotation 1"/>
+        <node refid="15690" role="annotation 2"/>
+      </relation>
+      <relation id="3416">
+        <infon key="type">fr</infon>
+        <node refid="15684" role="annotation 1"/>
+        <node refid="15766" role="annotation 2"/>
+      </relation>
+      <relation id="3417">
+        <infon key="type">manner/route</infon>
+        <node refid="15684" role="annotation 1"/>
+        <node refid="15749" role="annotation 2"/>
+      </relation>
+      <relation id="3418">
+        <infon key="type">reason</infon>
+        <node refid="15684" role="annotation 1"/>
+        <node refid="15767" role="annotation 2"/>
+      </relation>
+      <relation id="3419">
+        <infon key="type">do</infon>
+        <node refid="15685" role="annotation 1"/>
+        <node refid="15690" role="annotation 2"/>
+      </relation>
+      <relation id="3420">
+        <infon key="type">fr</infon>
+        <node refid="15685" role="annotation 1"/>
+        <node refid="15766" role="annotation 2"/>
+      </relation>
+      <relation id="3421">
+        <infon key="type">manner/route</infon>
+        <node refid="15685" role="annotation 1"/>
+        <node refid="15749" role="annotation 2"/>
+      </relation>
+      <relation id="3422">
+        <infon key="type">reason</infon>
+        <node refid="15685" role="annotation 1"/>
+        <node refid="15767" role="annotation 2"/>
+      </relation>
+      <relation id="3423">
+        <infon key="type">do</infon>
+        <node refid="15686" role="annotation 1"/>
+        <node refid="15689" role="annotation 2"/>
+      </relation>
+      <relation id="3424">
+        <infon key="type">fr</infon>
+        <node refid="15686" role="annotation 1"/>
+        <node refid="15768" role="annotation 2"/>
+      </relation>
+      <relation id="3425">
+        <infon key="type">manner/route</infon>
+        <node refid="15686" role="annotation 1"/>
+        <node refid="15750" role="annotation 2"/>
+      </relation>
+      <relation id="3426">
+        <infon key="type">do</infon>
+        <node refid="15687" role="annotation 1"/>
+        <node refid="15688" role="annotation 2"/>
+      </relation>
+      <relation id="3427">
+        <infon key="type">do</infon>
+        <node refid="15687" role="annotation 1"/>
+        <node refid="15689" role="annotation 2"/>
+      </relation>
+      <relation id="3428">
+        <infon key="type">fr</infon>
+        <node refid="15687" role="annotation 1"/>
+        <node refid="15768" role="annotation 2"/>
+      </relation>
+      <relation id="3429">
+        <infon key="type">manner/route</infon>
+        <node refid="15687" role="annotation 1"/>
+        <node refid="15750" role="annotation 2"/>
+      </relation>
+      <relation id="3430">
+        <infon key="type">do</infon>
+        <node refid="15694" role="annotation 1"/>
+        <node refid="15574" role="annotation 2"/>
+      </relation>
+      <relation id="3431">
+        <infon key="type">do</infon>
+        <node refid="15694" role="annotation 1"/>
+        <node refid="15693" role="annotation 2"/>
+      </relation>
+      <relation id="3432">
+        <infon key="type">fr</infon>
+        <node refid="15694" role="annotation 1"/>
+        <node refid="15769" role="annotation 2"/>
+      </relation>
+      <relation id="3433">
+        <infon key="type">manner/route</infon>
+        <node refid="15694" role="annotation 1"/>
+        <node refid="15575" role="annotation 2"/>
+      </relation>
+      <relation id="3434">
+        <infon key="type">do</infon>
+        <node refid="15695" role="annotation 1"/>
+        <node refid="15574" role="annotation 2"/>
+      </relation>
+      <relation id="3435">
+        <infon key="type">fr</infon>
+        <node refid="15695" role="annotation 1"/>
+        <node refid="15769" role="annotation 2"/>
+      </relation>
+      <relation id="3436">
+        <infon key="type">manner/route</infon>
+        <node refid="15695" role="annotation 1"/>
+        <node refid="15575" role="annotation 2"/>
+      </relation>
+      <relation id="3437">
+        <infon key="type">do</infon>
+        <node refid="15696" role="annotation 1"/>
+        <node refid="15691" role="annotation 2"/>
+      </relation>
+      <relation id="3438">
+        <infon key="type">fr</infon>
+        <node refid="15696" role="annotation 1"/>
+        <node refid="15770" role="annotation 2"/>
+      </relation>
+      <relation id="3439">
+        <infon key="type">manner/route</infon>
+        <node refid="15696" role="annotation 1"/>
+        <node refid="15751" role="annotation 2"/>
+      </relation>
+      <relation id="3440">
+        <infon key="type">reason</infon>
+        <node refid="15696" role="annotation 1"/>
+        <node refid="15771" role="annotation 2"/>
+      </relation>
+      <relation id="3441">
+        <infon key="type">do</infon>
+        <node refid="15697" role="annotation 1"/>
+        <node refid="15692" role="annotation 2"/>
+      </relation>
+      <relation id="3442">
+        <infon key="type">fr</infon>
+        <node refid="15697" role="annotation 1"/>
+        <node refid="15772" role="annotation 2"/>
+      </relation>
+      <relation id="3443">
+        <infon key="type">manner/route</infon>
+        <node refid="15697" role="annotation 1"/>
+        <node refid="15752" role="annotation 2"/>
+      </relation>
+      <relation id="3444">
+        <infon key="type">do</infon>
+        <node refid="15698" role="annotation 1"/>
+        <node refid="15692" role="annotation 2"/>
+      </relation>
+      <relation id="3445">
+        <infon key="type">fr</infon>
+        <node refid="15698" role="annotation 1"/>
+        <node refid="15772" role="annotation 2"/>
+      </relation>
+      <relation id="3446">
+        <infon key="type">manner/route</infon>
+        <node refid="15698" role="annotation 1"/>
+        <node refid="15752" role="annotation 2"/>
+      </relation>
+      <relation id="3447">
+        <infon key="type">do</infon>
+        <node refid="15699" role="annotation 1"/>
+        <node refid="15728" role="annotation 2"/>
+      </relation>
+      <relation id="3448">
+        <infon key="type">fr</infon>
+        <node refid="15699" role="annotation 1"/>
+        <node refid="15773" role="annotation 2"/>
+      </relation>
+      <relation id="3449">
+        <infon key="type">manner/route</infon>
+        <node refid="15699" role="annotation 1"/>
+        <node refid="15753" role="annotation 2"/>
+      </relation>
+      <relation id="3450">
+        <infon key="type">do</infon>
+        <node refid="15700" role="annotation 1"/>
+        <node refid="15730" role="annotation 2"/>
+      </relation>
+      <relation id="3451">
+        <infon key="type">fr</infon>
+        <node refid="15700" role="annotation 1"/>
+        <node refid="15773" role="annotation 2"/>
+      </relation>
+      <relation id="3452">
+        <infon key="type">manner/route</infon>
+        <node refid="15700" role="annotation 1"/>
+        <node refid="15753" role="annotation 2"/>
+      </relation>
+      <relation id="3453">
+        <infon key="type">do</infon>
+        <node refid="15701" role="annotation 1"/>
+        <node refid="15729" role="annotation 2"/>
+      </relation>
+      <relation id="3454">
+        <infon key="type">fr</infon>
+        <node refid="15701" role="annotation 1"/>
+        <node refid="15774" role="annotation 2"/>
+      </relation>
+      <relation id="3455">
+        <infon key="type">manner/route</infon>
+        <node refid="15701" role="annotation 1"/>
+        <node refid="15754" role="annotation 2"/>
+      </relation>
+      <relation id="3456">
+        <infon key="type">do</infon>
+        <node refid="15702" role="annotation 1"/>
+        <node refid="15729" role="annotation 2"/>
+      </relation>
+      <relation id="3457">
+        <infon key="type">fr</infon>
+        <node refid="15702" role="annotation 1"/>
+        <node refid="15774" role="annotation 2"/>
+      </relation>
+      <relation id="3458">
+        <infon key="type">manner/route</infon>
+        <node refid="15702" role="annotation 1"/>
+        <node refid="15754" role="annotation 2"/>
+      </relation>
+      <relation id="3459">
+        <infon key="type">do</infon>
+        <node refid="15703" role="annotation 1"/>
+        <node refid="15731" role="annotation 2"/>
+      </relation>
+      <relation id="3460">
+        <infon key="type">fr</infon>
+        <node refid="15703" role="annotation 1"/>
+        <node refid="15786" role="annotation 2"/>
+      </relation>
+      <relation id="3461">
+        <infon key="type">manner/route</infon>
+        <node refid="15703" role="annotation 1"/>
+        <node refid="15755" role="annotation 2"/>
+      </relation>
+      <relation id="3462">
+        <infon key="type">do</infon>
+        <node refid="15704" role="annotation 1"/>
+        <node refid="15731" role="annotation 2"/>
+      </relation>
+      <relation id="3463">
+        <infon key="type">fr</infon>
+        <node refid="15704" role="annotation 1"/>
+        <node refid="15786" role="annotation 2"/>
+      </relation>
+      <relation id="3464">
+        <infon key="type">manner/route</infon>
+        <node refid="15704" role="annotation 1"/>
+        <node refid="15755" role="annotation 2"/>
+      </relation>
+      <relation id="3465">
+        <infon key="type">do</infon>
+        <node refid="15705" role="annotation 1"/>
+        <node refid="15732" role="annotation 2"/>
+      </relation>
+      <relation id="3466">
+        <infon key="type">do</infon>
+        <node refid="15705" role="annotation 1"/>
+        <node refid="15733" role="annotation 2"/>
+      </relation>
+      <relation id="3467">
+        <infon key="type">fr</infon>
+        <node refid="15705" role="annotation 1"/>
+        <node refid="15775" role="annotation 2"/>
+      </relation>
+      <relation id="3468">
+        <infon key="type">manner/route</infon>
+        <node refid="15705" role="annotation 1"/>
+        <node refid="15756" role="annotation 2"/>
+      </relation>
+      <relation id="3469">
+        <infon key="type">do</infon>
+        <node refid="15706" role="annotation 1"/>
+        <node refid="15732" role="annotation 2"/>
+      </relation>
+      <relation id="3470">
+        <infon key="type">do</infon>
+        <node refid="15706" role="annotation 1"/>
+        <node refid="15733" role="annotation 2"/>
+      </relation>
+      <relation id="3471">
+        <infon key="type">fr</infon>
+        <node refid="15706" role="annotation 1"/>
+        <node refid="15775" role="annotation 2"/>
+      </relation>
+      <relation id="3472">
+        <infon key="type">manner/route</infon>
+        <node refid="15706" role="annotation 1"/>
+        <node refid="15756" role="annotation 2"/>
+      </relation>
+      <relation id="3473">
+        <infon key="type">do</infon>
+        <node refid="15707" role="annotation 1"/>
+        <node refid="15734" role="annotation 2"/>
+      </relation>
+      <relation id="3474">
+        <infon key="type">fr</infon>
+        <node refid="15707" role="annotation 1"/>
+        <node refid="15776" role="annotation 2"/>
+      </relation>
+      <relation id="3475">
+        <infon key="type">manner/route</infon>
+        <node refid="15707" role="annotation 1"/>
+        <node refid="15757" role="annotation 2"/>
+      </relation>
+      <relation id="3476">
+        <infon key="type">do</infon>
+        <node refid="15708" role="annotation 1"/>
+        <node refid="15734" role="annotation 2"/>
+      </relation>
+      <relation id="3477">
+        <infon key="type">fr</infon>
+        <node refid="15708" role="annotation 1"/>
+        <node refid="15776" role="annotation 2"/>
+      </relation>
+      <relation id="3478">
+        <infon key="type">manner/route</infon>
+        <node refid="15708" role="annotation 1"/>
+        <node refid="15757" role="annotation 2"/>
+      </relation>
+      <relation id="3479">
+        <infon key="type">do</infon>
+        <node refid="15709" role="annotation 1"/>
+        <node refid="15735" role="annotation 2"/>
+      </relation>
+      <relation id="3480">
+        <infon key="type">fr</infon>
+        <node refid="15709" role="annotation 1"/>
+        <node refid="15777" role="annotation 2"/>
+      </relation>
+      <relation id="3481">
+        <infon key="type">manner/route</infon>
+        <node refid="15709" role="annotation 1"/>
+        <node refid="15737" role="annotation 2"/>
+      </relation>
+      <relation id="3482">
+        <infon key="type">do</infon>
+        <node refid="15710" role="annotation 1"/>
+        <node refid="15735" role="annotation 2"/>
+      </relation>
+      <relation id="3483">
+        <infon key="type">fr</infon>
+        <node refid="15710" role="annotation 1"/>
+        <node refid="15777" role="annotation 2"/>
+      </relation>
+      <relation id="3484">
+        <infon key="type">manner/route</infon>
+        <node refid="15710" role="annotation 1"/>
+        <node refid="15736" role="annotation 2"/>
+      </relation>
+      <relation id="3485">
+        <infon key="type">do</infon>
+        <node refid="15712" role="annotation 1"/>
+        <node refid="15738" role="annotation 2"/>
+      </relation>
+      <relation id="3486">
+        <infon key="type">fr</infon>
+        <node refid="15712" role="annotation 1"/>
+        <node refid="15778" role="annotation 2"/>
+      </relation>
+      <relation id="3487">
+        <infon key="type">manner/route</infon>
+        <node refid="15712" role="annotation 1"/>
+        <node refid="15758" role="annotation 2"/>
+      </relation>
+      <relation id="3488">
+        <infon key="type">do</infon>
+        <node refid="15714" role="annotation 1"/>
+        <node refid="15747" role="annotation 2"/>
+      </relation>
+      <relation id="3489">
+        <infon key="type">do</infon>
+        <node refid="15714" role="annotation 1"/>
+        <node refid="15748" role="annotation 2"/>
+      </relation>
+      <relation id="3490">
+        <infon key="type">fr</infon>
+        <node refid="15714" role="annotation 1"/>
+        <node refid="15779" role="annotation 2"/>
+      </relation>
+      <relation id="3491">
+        <infon key="type">manner/route</infon>
+        <node refid="15714" role="annotation 1"/>
+        <node refid="15759" role="annotation 2"/>
+      </relation>
+      <relation id="3492">
+        <infon key="type">do</infon>
+        <node refid="15715" role="annotation 1"/>
+        <node refid="15747" role="annotation 2"/>
+      </relation>
+      <relation id="3493">
+        <infon key="type">do</infon>
+        <node refid="15715" role="annotation 1"/>
+        <node refid="15748" role="annotation 2"/>
+      </relation>
+      <relation id="3494">
+        <infon key="type">fr</infon>
+        <node refid="15715" role="annotation 1"/>
+        <node refid="15779" role="annotation 2"/>
+      </relation>
+      <relation id="3495">
+        <infon key="type">manner/route</infon>
+        <node refid="15715" role="annotation 1"/>
+        <node refid="15759" role="annotation 2"/>
+      </relation>
+      <relation id="3496">
+        <infon key="type">do</infon>
+        <node refid="15716" role="annotation 1"/>
+        <node refid="15739" role="annotation 2"/>
+      </relation>
+      <relation id="3497">
+        <infon key="type">fr</infon>
+        <node refid="15716" role="annotation 1"/>
+        <node refid="15787" role="annotation 2"/>
+      </relation>
+      <relation id="3498">
+        <infon key="type">manner/route</infon>
+        <node refid="15716" role="annotation 1"/>
+        <node refid="15760" role="annotation 2"/>
+      </relation>
+      <relation id="3499">
+        <infon key="type">do</infon>
+        <node refid="15717" role="annotation 1"/>
+        <node refid="15740" role="annotation 2"/>
+      </relation>
+      <relation id="3500">
+        <infon key="type">fr</infon>
+        <node refid="15717" role="annotation 1"/>
+        <node refid="15788" role="annotation 2"/>
+      </relation>
+      <relation id="3501">
+        <infon key="type">manner/route</infon>
+        <node refid="15717" role="annotation 1"/>
+        <node refid="15761" role="annotation 2"/>
+      </relation>
+      <relation id="3502">
+        <infon key="type">do</infon>
+        <node refid="15718" role="annotation 1"/>
+        <node refid="15740" role="annotation 2"/>
+      </relation>
+      <relation id="3503">
+        <infon key="type">fr</infon>
+        <node refid="15718" role="annotation 1"/>
+        <node refid="15788" role="annotation 2"/>
+      </relation>
+      <relation id="3504">
+        <infon key="type">manner/route</infon>
+        <node refid="15718" role="annotation 1"/>
+        <node refid="15761" role="annotation 2"/>
+      </relation>
+      <relation id="3505">
+        <infon key="type">do</infon>
+        <node refid="15719" role="annotation 1"/>
+        <node refid="15741" role="annotation 2"/>
+      </relation>
+      <relation id="3506">
+        <infon key="type">do</infon>
+        <node refid="15719" role="annotation 1"/>
+        <node refid="15746" role="annotation 2"/>
+      </relation>
+      <relation id="3507">
+        <infon key="type">fr</infon>
+        <node refid="15719" role="annotation 1"/>
+        <node refid="15780" role="annotation 2"/>
+      </relation>
+      <relation id="3508">
+        <infon key="type">manner/route</infon>
+        <node refid="15719" role="annotation 1"/>
+        <node refid="15762" role="annotation 2"/>
+      </relation>
+      <relation id="3509">
+        <infon key="type">reason</infon>
+        <node refid="15719" role="annotation 1"/>
+        <node refid="15781" role="annotation 2"/>
+      </relation>
+      <relation id="3510">
+        <infon key="type">do</infon>
+        <node refid="15720" role="annotation 1"/>
+        <node refid="15746" role="annotation 2"/>
+      </relation>
+      <relation id="3511">
+        <infon key="type">fr</infon>
+        <node refid="15720" role="annotation 1"/>
+        <node refid="15780" role="annotation 2"/>
+      </relation>
+      <relation id="3512">
+        <infon key="type">manner/route</infon>
+        <node refid="15720" role="annotation 1"/>
+        <node refid="15762" role="annotation 2"/>
+      </relation>
+      <relation id="3513">
+        <infon key="type">reason</infon>
+        <node refid="15720" role="annotation 1"/>
+        <node refid="15781" role="annotation 2"/>
+      </relation>
+      <relation id="3514">
+        <infon key="type">do</infon>
+        <node refid="15721" role="annotation 1"/>
+        <node refid="15742" role="annotation 2"/>
+      </relation>
+      <relation id="3515">
+        <infon key="type">fr</infon>
+        <node refid="15721" role="annotation 1"/>
+        <node refid="15783" role="annotation 2"/>
+      </relation>
+      <relation id="3516">
+        <infon key="type">manner/route</infon>
+        <node refid="15721" role="annotation 1"/>
+        <node refid="15763" role="annotation 2"/>
+      </relation>
+      <relation id="3517">
+        <infon key="type">reason</infon>
+        <node refid="15721" role="annotation 1"/>
+        <node refid="15782" role="annotation 2"/>
+      </relation>
+      <relation id="3518">
+        <infon key="type">do</infon>
+        <node refid="15722" role="annotation 1"/>
+        <node refid="15742" role="annotation 2"/>
+      </relation>
+      <relation id="3519">
+        <infon key="type">fr</infon>
+        <node refid="15722" role="annotation 1"/>
+        <node refid="15783" role="annotation 2"/>
+      </relation>
+      <relation id="3520">
+        <infon key="type">manner/route</infon>
+        <node refid="15722" role="annotation 1"/>
+        <node refid="15763" role="annotation 2"/>
+      </relation>
+      <relation id="3521">
+        <infon key="type">reason</infon>
+        <node refid="15722" role="annotation 1"/>
+        <node refid="15782" role="annotation 2"/>
+      </relation>
+      <relation id="3522">
+        <infon key="type">do</infon>
+        <node refid="15723" role="annotation 1"/>
+        <node refid="15743" role="annotation 2"/>
+      </relation>
+      <relation id="3523">
+        <infon key="type">do</infon>
+        <node refid="15723" role="annotation 1"/>
+        <node refid="15744" role="annotation 2"/>
+      </relation>
+      <relation id="3524">
+        <infon key="type">fr</infon>
+        <node refid="15723" role="annotation 1"/>
+        <node refid="15784" role="annotation 2"/>
+      </relation>
+      <relation id="3525">
+        <infon key="type">manner/route</infon>
+        <node refid="15723" role="annotation 1"/>
+        <node refid="15764" role="annotation 2"/>
+      </relation>
+      <relation id="3526">
+        <infon key="type">do</infon>
+        <node refid="15724" role="annotation 1"/>
+        <node refid="15744" role="annotation 2"/>
+      </relation>
+      <relation id="3527">
+        <infon key="type">fr</infon>
+        <node refid="15724" role="annotation 1"/>
+        <node refid="15784" role="annotation 2"/>
+      </relation>
+      <relation id="3528">
+        <infon key="type">manner/route</infon>
+        <node refid="15724" role="annotation 1"/>
+        <node refid="15764" role="annotation 2"/>
+      </relation>
+      <relation id="3529">
+        <infon key="type">do</infon>
+        <node refid="15725" role="annotation 1"/>
+        <node refid="15745" role="annotation 2"/>
+      </relation>
+      <relation id="3530">
+        <infon key="type">fr</infon>
+        <node refid="15725" role="annotation 1"/>
+        <node refid="15785" role="annotation 2"/>
+      </relation>
+      <relation id="3531">
+        <infon key="type">manner/route</infon>
+        <node refid="15725" role="annotation 1"/>
+        <node refid="15765" role="annotation 2"/>
+      </relation>
+      <relation id="3532">
+        <infon key="type">do</infon>
+        <node refid="15726" role="annotation 1"/>
+        <node refid="15745" role="annotation 2"/>
+      </relation>
+      <relation id="3533">
+        <infon key="type">fr</infon>
+        <node refid="15726" role="annotation 1"/>
+        <node refid="15785" role="annotation 2"/>
+      </relation>
+      <relation id="3534">
+        <infon key="type">manner/route</infon>
+        <node refid="15726" role="annotation 1"/>
+        <node refid="15765" role="annotation 2"/>
+      </relation>
+      <relation id="3535">
+        <infon key="type">reason</infon>
+        <node refid="15790" role="annotation 1"/>
+        <node refid="15647" role="annotation 2"/>
+      </relation>
+    </passage>
+  </document>
+</collection>

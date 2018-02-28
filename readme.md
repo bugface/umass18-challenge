@@ -22,10 +22,10 @@ PRE_TRAINED_MODEL = "the directory containing the pre-trained model"
 
 - run umass18_pipeline, the necessary information about the process will be logged in the console or termial
 ```sh
-#not using gpu for tagging(linux) (extremely slow!!!)
+#not using gpu for tagging(linux) (extremely slow!!! and the accuracy somehow is not as high as using c++ compiled tagger)
 python umass18_pipeline.py
 
-#not using gpu but with mkl for tagging(linux, miniconda2-latest)
+#not using gpu but with mkl for tagging(linux, miniconda2-latest, make sure you have c++ compiler)
 conda install mkl-service 
 python umass18_pipeline.py
 
@@ -44,3 +44,6 @@ python3 bioc_evaluation.py <ground truth .bioc files directory> <predicted .bioc
 
 ## Authors
 >Yonghui Wu Ph.D.*, Xi Yang Ph.D.
+
+## contact
+> the model was encrypted, if you need password, please contact alexgre@ufl.edu
