@@ -27,7 +27,7 @@ python umass18_pipeline.py
 #On unix system preinstalled miniconda2-latest
 conda install mkl-service
 export MKL_THREADING_LAYER=GNU
-THEANO_FLAGS=device=cuda2(when you using GPU for tagging task)
+export THEANO_FLAGS=device=cuda2 #(when you using GPU for tagging task)
 python umass18_pipeline.py
 ```
 
