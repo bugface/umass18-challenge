@@ -1,44 +1,19 @@
-# NLP Challenges for Detecting Medication and Adverse Drug Events from Electronic Health Records (MADE1.0)
+# All the code for taking chanllenge of MADE1.0 umass18
 
-## System
-> Named entity recognition (NER): develop systems to automatically detect mentions of medication name and its attributes (dosage, frequency, route, duration), as well as mentions of ADEs, indications, other signs & symptoms.
+## NER is the folder containg all the code for name entity recognition tagging task 1
+- the code is only the pipeline using pretrained model to predict the given data
+- the training process is not included
 
-## environment
-- python 2.7
+## RE is the folder containg all the code for relation extraction task 2 and 3 (e2e)
+- two models are used namely SVM and Random Forest
+- SVM is based on LibSVM3.22, Random Forest is based on sciki-learn
+- the jupyter notebook containing all the functions and experiment results for processing data for training, create models and prediction
 
-## How to run the system
-- change the umass18_config file content to reflect the data location for system input and output
-```python
-CORPUS_DIR = "the chanllenge original corpus files directory" 
-PREPROCESSED_CORPUS_DIR = "the direcoty containing output sentence-tokenized files and words-position-map files"
-EVALUATION_DIR = "the directory containing output .bioc files for evaluation"
-PRE_TRAINED_MODEL = "the directory containing the pre-trained model"
-```
+## raw data are not provided, but can be obtained later since the MADE team from umass will release the data in the future to public
 
-- run umass18_pipeline, the necessary information about the process will be logged in the console or termial
-```sh
-pip install -r requirements.txt
+## the final results are listed below
 
-#On windows machine: pre-installed anaconda2 
-conda install mkl-service
-conda install m2w64-toolchain
-python umass18_pipeline.py
+- NER: f1-score(strict) 0.8322
+- RE based on true entities: 0.847 (SVM)
+- RE based on predicted entities from NER: 0.612 (SVM)
 
-#On unix system preinstalled miniconda2-latest
-conda install mkl-service
-export MKL_THREADING_LAYER=GNU
-export THEANO_FLAGS=device=cuda2 #(when you using GPU for tagging task)
-python umass18_pipeline.py
-```
-
-- run evaluation script on generated data, using the newly generated eval directory which contains all the predicted .bioc files as evaluation predicted directory (This evaluation must be run using python3 because the evaluation script provided by chanllenge organizer was written in python3)
-```sh
-pip install bioc future
-python3 bioc_evaluation.py <ground truth .bioc files directory> <predicted .bioc files directory> <corpus files directory>
-```
-
-## Authors
->Yonghui Wu Ph.D.*, Xi Yang Ph.D.
-
-## contact
-> the model was encrypted, if you need password, please contact alexgre@ufl.edu
