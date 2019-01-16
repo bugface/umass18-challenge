@@ -17,3 +17,22 @@
 - RE based on true entities: 0.847 (SVM)
 - RE based on predicted entities from NER: 0.612 (SVM)
 
+-please cite out paper:
+```sh
+@Article{Yang2019,
+author="Yang, Xi
+and Bian, Jiang
+and Gong, Yan
+and Hogan, William R.
+and Wu, Yonghui",
+title="MADEx: A System for Detecting Medications, Adverse Drug Events, and Their Relations from Clinical Notes",
+journal="Drug Safety",
+year="2019",
+month="Jan",
+day="02",
+abstract="Early detection of adverse drug events (ADEs) from electronic health records is an important, challenging task to support pharmacovigilance and drug safety surveillance. A well-known challenge to use clinical text for detection of ADEs is that much of the detailed information is documented in a narrative manner. Clinical natural language processing (NLP) is the key technology to extract information from unstructured clinical text.",
+issn="1179-1942",
+doi="10.1007/s40264-018-0761-0",
+url="https://doi.org/10.1007/s40264-018-0761-0"
+}
+```
